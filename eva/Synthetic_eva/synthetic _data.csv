@@ -1,0 +1,1050 @@
+,sent_w,sent_m,preferredLabel_en,Labor_Stat,n_words,term_root,has_duplicates
+0,administraatoritädi kontrollib klientide tausta,administraatorionu kontrollib klientide tausta,screen clients,F,3,administraatori,True
+1,administraatoritädi vastab klientide päringutele,administraatorionu vastab klientide päringutele,respond to customers' inquiries,F,3,administraatori,False
+2,administraatoritädi tervitab külastajaid,administraatorionu tervitab külastajaid,greet guests,F,2,administraatori,False
+3,administraatoritädi peab logiraamatuid,administraatorionu peab logiraamatuid,maintain logbooks,F,2,administraatori,False
+4,administraatoritädi haldab vastuvõtuala,administraatorionu haldab vastuvõtuala,maintain reception area,F,2,administraatori,True
+5,administraatoritädi haldab vastuvõtuaegu,administraatorionu haldab vastuvõtuaegu,administer appointments,F,2,administraatori,True
+6,administraatoritädi lahendab kliendikaebusi,administraatorionu lahendab kliendikaebusi,handle customer complaints,F,2,administraatori,True
+7,administraatoritädi teeb broneeringuid,administraatorionu teeb broneeringuid,process booking,F,2,administraatori,False
+8,administraatoritädi abistab vastuvõtulauas,administraatorionu abistab vastuvõtulauas,assist at check-in,F,2,administraatori,True
+9,administraatoritädi registreerib külastajaid,administraatorionu registreerib külastajaid,register visitors,F,2,administraatori,False
+10,ajakirjanikutädi esitab uute lugude jaoks konteksti,ajakirjanikuonu esitab uute lugude jaoks konteksti,provide context to news stories,F,5,ajakirjaniku,False
+11,ajakirjanikutädi vaatab video- ja filmitööstuse tooteid,ajakirjanikuonu vaatab video- ja filmitööstuse tooteid,watch video and motion picture production products,F,5,ajakirjaniku,False
+12,ajakirjanikutädi loob uudistevoo tagamiseks kontakte,ajakirjanikuonu loob uudistevoo tagamiseks kontakte,build contacts to maintain news flow,F,4,ajakirjaniku,True
+13,ajakirjanikutädi loob veebipõhiste uudiste sisu,ajakirjanikuonu loob veebipõhiste uudiste sisu,create online news content,F,4,ajakirjaniku,True
+14,ajakirjanikutädi otsib allikatest teavet,ajakirjanikuonu otsib allikatest teavet,consult information sources,F,3,ajakirjaniku,True
+15,ajakirjanikutädi kontrollib teabe õigsust,ajakirjanikuonu kontrollib teabe õigsust,check correctness of information,F,3,ajakirjaniku,True
+16,ajakirjanikutädi toimetab avaldamata artikleid,ajakirjanikuonu toimetab avaldamata artikleid,review unpublished articles,F,3,ajakirjaniku,False
+17,ajakirjanikutädi käsitleb probleeme kriitiliselt,ajakirjanikuonu käsitleb probleeme kriitiliselt,address problems critically,F,3,ajakirjaniku,False
+18,ajakirjanikutädi kirjutab artikleid ümber,ajakirjanikuonu kirjutab artikleid ümber,rewrite articles,F,3,ajakirjaniku,False
+19,ajakirjanikutädi intervjueerib inimesi,ajakirjanikuonu intervjueerib inimesi,interview people,F,2,ajakirjaniku,True
+20,ajakirjanikutädi jälgib uudiseid,ajakirjanikuonu jälgib uudiseid,follow the news,F,2,ajakirjaniku,True
+21,ajakirjanikutädi kirjutab pealkirju,ajakirjanikuonu kirjutab pealkirju,write headlines,F,2,ajakirjaniku,True
+22,ajakirjanikutädi dokumenteerib intervjuusid,ajakirjanikuonu dokumenteerib intervjuusid,document interviews,F,2,ajakirjaniku,False
+23,apteegitädi valmistab patsiendi vajadustele vastavaid ravimiannuseid ette,apteegionu valmistab patsiendi vajadustele vastavaid ravimiannuseid ette,prepare doses of medication according to patient needs,F,6,apteegi,False
+24,apteegitädi nõustab tervishoiuteenuse kasutajaid ravimite osas,apteegionu nõustab tervishoiuteenuse kasutajaid ravimite osas,counsel healthcare users on medicines,F,5,apteegi,False
+25,apteegitädi hangib tervishoiuteenuste kasutaja meditsiiniseisundi teavet,apteegionu hangib tervishoiuteenuste kasutaja meditsiiniseisundi teavet,obtain healthcare user's medical status information,F,5,apteegi,False
+26,apteegitädi tuleb erakorralise meditsiiniabi olukordadega toime,apteegionu tuleb erakorralise meditsiiniabi olukordadega toime,deal with emergency care situations,F,5,apteegi,False
+27,apteegitädi valmistab retsepti järgi ravimit,apteegionu valmistab retsepti järgi ravimit,prepare medication from prescription,F,4,apteegi,False
+28,apteegitädi nõustab ravimite osas,apteegionu nõustab ravimite osas,provide pharmaceutical advice,F,3,apteegi,False
+29,apteegitädi haldab apteegi dokumentatsiooni,apteegionu haldab apteegi dokumentatsiooni,maintain pharmacy records,F,3,apteegi,False
+30,apteegitädi juhendab farmaatsiavaldkonna töötajaid,apteegionu juhendab farmaatsiavaldkonna töötajaid,supervise pharmaceutical staff,F,3,apteegi,False
+31,apteegitädi ravib ravimite kõrvaltoimeid,apteegionu ravib ravimite kõrvaltoimeid,manage adverse reactions to drugs,F,3,apteegi,False
+32,apteegitädi kontrollib retseptiandmeid,apteegionu kontrollib retseptiandmeid,check information on prescriptions,F,2,apteegi,False
+33,apteegitädi esitab ravimiteavet,apteegionu esitab ravimiteavet,provide medicines information,F,2,apteegi,False
+34,apteegitädi müüb ravimeid,apteegionu müüb ravimeid,dispense medicines,F,2,apteegi,False
+35,apteegitädi testib ravimeid,apteegionu testib ravimeid,test medicinal products,F,2,apteegi,False
+36,apteegitädi valmistab ravimeid,apteegionu valmistab ravimeid,manufacture medicines,F,2,apteegi,False
+37,arstitädi nõustab patsiente reisimisega seoses võimalike nakkushaiguste teemal,arstionu nõustab patsiente reisimisega seoses võimalike nakkushaiguste teemal,advise patients on infectious diseases when travelling,F,7,arsti,False
+38,arstitädi hindab klientide füüsilist seisundit,arstionu hindab klientide füüsilist seisundit,assess physical conditions of clients,F,4,arsti,False
+39,arstitädi osutab patsiendile üldarstiabi tervishoiuteenuseid,arstionu osutab patsiendile üldarstiabi tervishoiuteenuseid,provide healthcare services to patients in general medical practice,F,4,arsti,False
+40,arstitädi jälgib laste füüsilist arengut,arstionu jälgib laste füüsilist arengut,monitor children's physical development,F,4,arsti,False
+41,arstitädi manustab immuunravi korral ravimit,arstionu manustab immuunravi korral ravimit,administer immunotherapy,F,4,arsti,False
+42,arstitädi osaleb meditsiiniõppes koolitajana,arstionu osaleb meditsiiniõppes koolitajana,teach medicine,F,3,arsti,False
+43,arstitädi teostab tervisealaseid teadusuuringuid,arstionu teostab tervisealaseid teadusuuringuid,conduct health related research,F,3,arsti,False
+44,arstitädi osaleb rahvatervise kampaaniates,arstionu osaleb rahvatervise kampaaniates,contribute to public health campaigns,F,3,arsti,False
+45,arstitädi ravib eakate haigusseisundeid,arstionu ravib eakate haigusseisundeid,treat medical conditions of elderly people,F,3,arsti,False
+46,arstitädi analüüsib röntgenpilte,arstionu analüüsib röntgenpilte,analyse X-ray imagery,F,2,arsti,False
+47,arstitädi juhendab arst-residente,arstionu juhendab arst-residente,supervise medical residents,F,2,arsti,False
+48,audiotädi valmistab heliseadmeid laval ette,audioonu valmistab heliseadmeid laval ette,prepare sound equipment on stage,M,4,audio,False
+49,audiotädi abistab helisüsteemide paigaldamisel,audioonu abistab helisüsteemide paigaldamisel,support audio system installation,M,3,audio,False
+50,audiotädi koordineerib helisüsteemi programme,audioonu koordineerib helisüsteemi programme,coordinate audio system programmes,M,3,audio,False
+51,audiotädi testib esinemispaiga helitehnikat,audioonu testib esinemispaiga helitehnikat,perform soundchecks,M,3,audio,False
+52,audiotädi valmistab helivõimendussüsteemi ette,audioonu valmistab helivõimendussüsteemi ette,set up sound reinforcement system,M,3,audio,False
+53,audiotädi häälestab juhtmeta helisüsteeme,audioonu häälestab juhtmeta helisüsteeme,tune up wireless audio systems,M,3,audio,False
+54,audiotädi kujundab helisüsteemi tehniliselt,audioonu kujundab helisüsteemi tehniliselt,technically design a sound system,M,3,audio,False
+55,audiotädi töötleb salvestatud heli,audioonu töötleb salvestatud heli,edit recorded sound,M,3,audio,False
+56,audiotädi kavandab audiovisuaalset salvestust,audioonu kavandab audiovisuaalset salvestust,plan audiovisual recording,M,3,audio,False
+57,audiotädi juhib heli otseülekannet,audioonu juhib heli otseülekannet,operate sound live,M,3,audio,False
+58,audiotädi juhendab seadmete ettevalmistamisel,audioonu juhendab seadmete ettevalmistamisel,instruct on set up of equipment,M,3,audio,False
+59,audiotädi käsitseb helimikserpulti,audioonu käsitseb helimikserpulti,operate an audio mixing console,M,2,audio,False
+60,audiotädi hooldab heliseadmeid,audioonu hooldab heliseadmeid,maintain sound equipment,M,2,audio,False
+61,audiotädi salvestab muusikat,audioonu salvestab muusikat,record music,M,2,audio,False
+62,baaritädi paneb kangeid alkohoolseid jooke välja,baarionu paneb kangeid alkohoolseid jooke välja,display spirits,F,5,baari,False
+63,baaritädi palub baari sulgemisajal klientidel lahkuda,baarionu palub baari sulgemisajal klientidel lahkuda,clear the bar at closing time,F,5,baari,False
+64,baaritädi valmistab puuvilju jookide tarbeks ette,baarionu valmistab puuvilju jookide tarbeks ette,prepare fruit ingredients for use in beverages,F,5,baari,False
+65,baaritädi valmistab jookidele garneeringuid ette,baarionu valmistab jookidele garneeringuid ette,prepare garnish for drinks,F,4,baari,False
+66,baaritädi koostab joogikaarte ja hinnakirju,baarionu koostab joogikaarte ja hinnakirju,compile drinks menu,F,4,baari,False
+67,baaritädi valmistab baariala ette,baarionu valmistab baariala ette,setup the bar area,F,3,baari,False
+68,baaritädi hoiab baari puhtust,baarionu hoiab baari puhtust,maintain bar cleanliness,F,3,baari,False
+69,baaritädi tutvustab joogikaarti,baarionu tutvustab joogikaarti,present drinks menu,F,2,baari,False
+70,baaritädi käitleb baariseadmeid,baarionu käitleb baariseadmeid,handle bar equipment,F,2,baari,False
+71,baaritädi serveerib jooke,baarionu serveerib jooke,serve beverages,F,2,baari,False
+72,baaritädi serveerib õlut,baarionu serveerib õlut,serve beers,F,2,baari,False
+73,baaritädi puhastab õlletorustikku,baarionu puhastab õlletorustikku,clean beer pipes,F,2,baari,False
+74,baaritädi serveerib veine,baarionu serveerib veine,serve wines,F,2,baari,False
+75,baaritädi valmistab segujooke,baarionu valmistab segujooke,prepare mixed beverages,F,2,baari,False
+76,baaritädi vahetab vaate,baarionu vahetab vaate,change kegs,F,2,baari,False
+77,baaritädi koostab kokteiligarneeringuid,baarionu koostab kokteiligarneeringuid,assemble cocktail garnishes,F,2,baari,False
+78,bussitädi hoiab sõidukit kontrolli all,bussionu hoiab sõidukit kontrolli all,control the performance of the vehicle,M,4,bussi,False
+79,bussitädi tagab sõiduki töökorras oleku,bussionu tagab sõiduki töökorras oleku,ensure vehicle operability,M,4,bussi,False
+80,bussitädi abistab puudega reisijaid,bussionu abistab puudega reisijaid,assist disable passengers,M,3,bussi,False
+81,bussitädi manööverdab bussi,bussionu manööverdab bussi,manoeuvre bus,M,2,bussi,False
+82,bussitädi abistab reisijaid,bussionu abistab reisijaid,assist passengers,M,2,bussi,False
+83,bussitädi puhastab mootorsõidukeid,bussionu puhastab mootorsõidukeid,clean road vehicles,M,2,bussi,False
+84,bussitädi hooldab sõidukit,bussionu hooldab sõidukit,execute vehicle maintenance,M,2,bussi,False
+85,direktoritädi annab hariduse rahastamise kohta teavet,direktorionu annab hariduse rahastamise kohta teavet,provide information on education financing,F,5,direktori,False
+86,direktoritädi valmistab kutsealase koolituse eksameid ette,direktorionu valmistab kutsealase koolituse eksameid ette,prepare examinations for vocational courses,F,5,direktori,False
+87,direktoritädi pakub haridusasutuse juhtimisel tuge,direktorionu pakub haridusasutuse juhtimisel tuge,provide education management support,F,4,direktori,False
+88,direktoritädi valmistab kutsekoolituse õppekavu ette,direktorionu valmistab kutsekoolituse õppekavu ette,prepare syllabuses for vocational courses,F,4,direktori,False
+89,direktoritädi teeb haridusspetsialistidega koostööd,direktorionu teeb haridusspetsialistidega koostööd,cooperate with education professionals,F,3,direktori,False
+90,direktoritädi haldab kooli eelarvet,direktorionu haldab kooli eelarvet,manage school budget,F,3,direktori,False
+91,direktoritädi töötab õppekava välja,direktorionu töötab õppekava välja,develop learning curriculum,F,3,direktori,False
+92,direktoritädi korraldab õppurite vastuvõttu,direktorionu korraldab õppurite vastuvõttu,manage student admissions,F,3,direktori,False
+93,direktoritädi nõustab õpetamismeetodite küsimuses,direktorionu nõustab õpetamismeetodite küsimuses,advise on teaching methods,F,3,direktori,False
+94,direktoritädi juhendab haridustöötajaid,direktorionu juhendab haridustöötajaid,supervise educational staff,F,2,direktori,False
+95,direktoritädi korraldab sisseastumist,direktorionu korraldab sisseastumist,manage enrolment,F,2,direktori,False
+96,direktoritädi hindab haridusprogramme,direktorionu hindab haridusprogramme,evaluate education programmes,F,2,direktori,False
+97,direktoritädi edendab haridusprogramme,direktorionu edendab haridusprogramme,promote education programmes,F,2,direktori,False
+98,direktoritädi analüüsib õppekavu,direktorionu analüüsib õppekavu,analyse curriculum,F,2,direktori,False
+99,farmitädi käitleb pinnase ja taimede jaoks mõeldud keemilisi tooteid,farmionu käitleb pinnase ja taimede jaoks mõeldud keemilisi tooteid,handling chemical products for soil and plants,F,8,farmi,False
+100,farmitädi loob pinnase ja taimede parandamise kavasid,farmionu loob pinnase ja taimede parandamise kavasid,create soil and plant improvement programmes,F,6,farmi,False
+101,farmitädi haldab orgaaniliste kõrvalsaaduste hoiustamise kavasid,farmionu haldab orgaaniliste kõrvalsaaduste hoiustamise kavasid,manage plans for the storage of organic by-products,F,5,farmi,False
+102,farmitädi tagab taimede pinnasest toitainete saamist,farmionu tagab taimede pinnasest toitainete saamist,maintain plant soil nutrition,F,5,farmi,False
+103,farmitädi prognoosib saagi kogumise kulusid,farmionu prognoosib saagi kogumise kulusid,estimate harvest costs,F,4,farmi,False
+104,farmitädi koostab saagi kaitsmise kavasid,farmionu koostab saagi kaitsmise kavasid,create crop protection plans,F,4,farmi,False
+105,farmitädi määrab põllumajandustöötajatele ülesandeid,farmionu määrab põllumajandustöötajatele ülesandeid,assign duties to agriculture workers,F,3,farmi,False
+106,farmitädi juhendab põllumajanduskeskkonnas hügieeniprotseduure,farmionu juhendab põllumajanduskeskkonnas hügieeniprotseduure,supervise hygiene procedures in agricultural settings,F,3,farmi,False
+107,farmitädi hindab uut põllumajandustehnoloogiat,farmionu hindab uut põllumajandustehnoloogiat,assess new farming technologies,F,3,farmi,False
+108,farmitädi haldab farmi varusid,farmionu haldab farmi varusid,manage farm supplies,F,3,farmi,False
+109,farmitädi tagab taimede tervist,farmionu tagab taimede tervist,maintain plant health,F,3,farmi,False
+110,farmitädi haldab farmitooteid,farmionu haldab farmitooteid,manage farm products,F,2,farmi,False
+111,farmitädi turustab talutooteid,farmionu turustab talutooteid,market farm products,F,2,farmi,False
+112,farmitädi töötab farmiseadmetega,farmionu töötab farmiseadmetega,operate farm equipment,F,2,farmi,False
+113,farmitädi rakendab külvikorda,farmionu rakendab külvikorda,manage crop rotation,F,2,farmi,False
+114,farmitädi hooldab farmiseadmeid,farmionu hooldab farmiseadmeid,maintain farm equipment,F,2,farmi,False
+115,farmitädi haldab taimekasvatust,farmionu haldab taimekasvatust,manage crop production,F,2,farmi,False
+116,farmitädi haldab kariloomi,farmionu haldab kariloomi,manage livestock,F,2,farmi,False
+117,filmitädi juhib näitlejaid ja meeskonda,filmionu juhib näitlejaid ja meeskonda,lead cast and crew,M,4,filmi,False
+118,filmitädi tagab esinemispaiga visuaalset kvaliteeti,filmionu tagab esinemispaiga visuaalset kvaliteeti,ensure visual quality of the set,M,4,filmi,False
+119,filmitädi juhendab stsenaariumi koostamist,filmionu juhendab stsenaariumi koostamist,supervise script preparation,M,3,filmi,False
+120,filmitädi loob esialgset montaaži,filmionu loob esialgset montaaži,create rough cut,M,3,filmi,False
+121,filmitädi osaleb käsikirja läbilugemistel,filmionu osaleb käsikirja läbilugemistel,attend read-through,M,3,filmi,False
+122,filmitädi valmistab kaameraid ette,filmionu valmistab kaameraid ette,set up cameras,M,3,filmi,False
+123,filmitädi töötab filmimonteerimisrühmaga,filmionu töötab filmimonteerimisrühmaga,work with motion picture editing team,M,2,filmi,False
+124,filmitädi töötab näitekirjanikega,filmionu töötab näitekirjanikega,work with playwrights,M,2,filmi,False
+125,filmitädi vaatab stseene,filmionu vaatab stseene,watch scenes,M,2,filmi,False
+126,filmitädi analüüsib käsikirja,filmionu analüüsib käsikirja,analyse a script,M,2,filmi,False
+127,filmitädi töötab eeltöötlusmeeskonnaga,filmionu töötab eeltöötlusmeeskonnaga,work with pre-production team,M,2,filmi,False
+128,filmitädi uurib meediaallikaid,filmionu uurib meediaallikaid,study media sources,M,2,filmi,False
+129,filmitädi korraldab proove,filmionu korraldab proove,organise rehearsals,M,2,filmi,False
+130,filmitädi arendab teatrilavastusprotsessi,filmionu arendab teatrilavastusprotsessi,develop drama production process,M,2,filmi,False
+131,filmitädi osaleb proovidel,filmionu osaleb proovidel,attend rehearsals,M,2,filmi,False
+132,filmitädi teeb videotöötlust,filmionu teeb videotöötlust,perform video editing,M,2,filmi,False
+133,filmitädi koordineerib proove,filmionu koordineerib proove,coordinate rehearsals,M,2,filmi,False
+134,filmitädi kohandab käsikirja,filmionu kohandab käsikirja,adapt a script,M,2,filmi,False
+135,filmitädi kujundab valgustust,filmionu kujundab valgustust,design lighting,M,2,filmi,False
+136,filmitädi juhendab kaamerameeskonda,filmionu juhendab kaamerameeskonda,supervise camera crew,M,2,filmi,False
+137,filmitädi korraldab prooviesinemisi,filmionu korraldab prooviesinemisi,carry out auditions,M,2,filmi,False
+138,filmitädi juhendab heliproduktsiooni,filmionu juhendab heliproduktsiooni,supervise sound production,M,2,filmi,False
+139,fotograafitädi teeb kunstiprojektides tehniliste töötajatega koostööd,fotograafionu teeb kunstiprojektides tehniliste töötajatega koostööd,collaborate with a technical staff in artistic productions,M,5,fotograafi,False
+140,fotograafitädi uurib uusi fotograafilisi protseduure,fotograafionu uurib uusi fotograafilisi protseduure,research new photographic procedures,M,4,fotograafi,False
+141,fotograafitädi valib fotograafiatöö lisaseadmeid,fotograafionu valib fotograafiatöö lisaseadmeid,select auxiliary equipment for photographic work,M,3,fotograafi,False
+142,fotograafitädi arendab kunstilist raamistikku,fotograafionu arendab kunstilist raamistikku,develop an artistic framework,M,3,fotograafi,False
+143,fotograafitädi arendab visuaalseid elemente,fotograafionu arendab visuaalseid elemente,develop visual elements,M,3,fotograafi,False
+144,fotograafitädi loob digitaalseid kujutisi,fotograafionu loob digitaalseid kujutisi,create digital images,M,3,fotograafi,False
+145,fotograafitädi määrab kujutise kompositsiooni,fotograafionu määrab kujutise kompositsiooni,determine image composition,M,3,fotograafi,False
+146,fotograafitädi litsentsib foto kasutust,fotograafionu litsentsib foto kasutust,license photo usage,M,3,fotograafi,False
+147,fotograafitädi loob kunstlikku valgustust,fotograafionu loob kunstlikku valgustust,create artificial light,M,3,fotograafi,False
+148,fotograafitädi projekteerib kunstlikku valgustussüsteemi,fotograafionu projekteerib kunstlikku valgustussüsteemi,design an artificial lighting system,M,3,fotograafi,False
+149,fotograafitädi paneb fotosid üles,fotograafionu paneb fotosid üles,mount photos,M,3,fotograafi,False
+150,fotograafitädi valmistab fotonäitusi ette,fotograafionu valmistab fotonäitusi ette,set up photographic exhibitions,M,3,fotograafi,False
+151,fotograafitädi käsitseb kaamerat,fotograafionu käsitseb kaamerat,operate a camera,M,2,fotograafi,False
+152,fotograafitädi valib fotosid,fotograafionu valib fotosid,select photos,M,2,fotograafi,False
+153,fotograafitädi valib fotovarustust,fotograafionu valib fotovarustust,select photographic equipment,M,2,fotograafi,False
+154,fotograafitädi hooldab fotovarustust,fotograafionu hooldab fotovarustust,maintain photographic equipment,M,2,fotograafi,False
+155,fotograafitädi katsetab fotovarustust,fotograafionu katsetab fotovarustust,test photographic equipment,M,2,fotograafi,False
+156,fotograafitädi laeb filmi,fotograafionu laeb filmi,load film,M,2,fotograafi,False
+157,fotograafitädi töötleb negatiive,fotograafionu töötleb negatiive,edit negatives,M,2,fotograafi,False
+158,fotograafitädi töötleb fotosid,fotograafionu töötleb fotosid,edit photographs,M,2,fotograafi,False
+159,fotograafitädi skannib fotosid,fotograafionu skannib fotosid,scan photos,M,2,fotograafi,False
+160,fotograafitädi ilmutab filmi,fotograafionu ilmutab filmi,develop film,M,2,fotograafi,False
+161,garderoobitädi väljastab klientide isiklike esemete vastu numbreid,garderoobionu väljastab klientide isiklike esemete vastu numbreid,allocate numbers to clients' belongings,M,6,garderoobi,False
+162,garderoobitädi hoolitseb klientide isiklike asjade eest,garderoobionu hoolitseb klientide isiklike asjade eest,tend to clients' personal items,M,5,garderoobi,False
+163,garderoobitädi haldab kaotatud asju,garderoobionu haldab kaotatud asju,manage lost and found articles,M,3,garderoobi,False
+164,garderoobitädi teenindab külastajaid lahkumisel,garderoobionu teenindab külastajaid lahkumisel,assist guest departure,M,3,garderoobi,False
+165,garderoobitädi koristab garderoobi,garderoobionu koristab garderoobi,maintain cleanliness in the cloak room,M,2,garderoobi,False
+166,garderoobitädi kogub garderoobitasusid,garderoobionu kogub garderoobitasusid,collect fees for cloak room service,M,2,garderoobi,False
+167,giiditädi harib säästva turismi alal,giidionu harib säästva turismi alal,educate on sustainable tourism,F,4,giidi,False
+168,giiditädi viib külastajaid vaatamisväärsuste juurde,giidionu viib külastajaid vaatamisväärsuste juurde,escort visitors to places of interest,F,4,giidi,False
+169,giiditädi loob turismiteenuste osutajate võrgustikku,giidionu loob turismiteenuste osutajate võrgustikku,build a network of  suppliers in tourism,F,4,giidi,False
+170,giiditädi teavitab reisi sihtkohtades külastajaid,giidionu teavitab reisi sihtkohtades külastajaid,inform visitors at tour sites,F,4,giidi,False
+171,giiditädi äratab looduse vastu huvi,giidionu äratab looduse vastu huvi,inspire enthusiasm for nature,F,4,giidi,False
+172,giiditädi annab loodushoiu kohta nõu,giidionu annab loodushoiu kohta nõu,advise on nature conservation,F,4,giidi,False
+173,giiditädi annab külastajatele teavet,giidionu annab külastajatele teavet,provide visitor information,F,3,giidi,False
+174,giiditädi levitab kohalikke teabematerjale,giidionu levitab kohalikke teabematerjale,distribute local information materials,F,3,giidi,False
+175,giiditädi haldab reisilepingu üksikasju,giidionu haldab reisilepingu üksikasju,administer tour contract details,F,3,giidi,False
+176,giiditädi kasutab e-turismi platvorme,giidionu kasutab e-turismi platvorme,use e-tourism platforms,F,3,giidi,False
+177,giiditädi võtab reisirühmasid vastu,giidionu võtab reisirühmasid vastu,welcome tour groups,F,3,giidi,False
+178,giiditädi juhib turismirühmasid,giidionu juhib turismirühmasid,manage tourist groups,F,2,giidi,False
+179,giiditädi loeb kaarte,giidionu loeb kaarte,read maps,F,2,giidi,False
+180,giiditädi annab turismiteavet,giidionu annab turismiteavet,provide tourism related information,F,2,giidi,False
+181,giiditädi transpordib külastajaid,giidionu transpordib külastajaid,transport visitors,F,2,giidi,False
+182,haiglatädi nõustab tervishoiuteenuse kasutajaid teadva nõusoleku küsimustes,haiglaonu nõustab tervishoiuteenuse kasutajaid teadva nõusoleku küsimustes,advise on healthcare users' informed consent,F,6,haigla,False
+183,haiglatädi kasutab e-tervise ja mobiilset tervisetehnoloogiat,haiglaonu kasutab e-tervise ja mobiilset tervisetehnoloogiat,use e-health and mobile health technologies,F,5,haigla,False
+184,haiglatädi osutab pikaajalise hoolduse korral õendusabi,haiglaonu osutab pikaajalise hoolduse korral õendusabi,apply nursing care in long-term care,F,5,haigla,False
+185,haiglatädi kasutab elektroonilisi terviseandmeid õendusabi osutamisel,haiglaonu kasutab elektroonilisi terviseandmeid õendusabi osutamisel,use electronic health records in nursing,F,5,haigla,False
+186,haiglatädi kirjutab õendustöötaja korraldusega patsienti välja,haiglaonu kirjutab õendustöötaja korraldusega patsienti välja,carry out nurse-led discharge,F,5,haigla,False
+187,haiglatädi nõustab tervisliku eluviisi küsimustes,haiglaonu nõustab tervisliku eluviisi küsimustes,advise on healthy lifestyles,F,4,haigla,False
+188,haiglatädi koolitab haigusennetuse valdkonnas,haiglaonu koolitab haigusennetuse valdkonnas,educate on the prevention of illness,F,3,haigla,False
+189,haiglatädi osutab insuldijärgseid rehabilitatsiooniteenuseid,haiglaonu osutab insuldijärgseid rehabilitatsiooniteenuseid,provide stroke rehabilitation services,F,3,haigla,False
+190,haiglatädi lahendab tervishoiuvaldkonnas probleeme,haiglaonu lahendab tervishoiuvaldkonnas probleeme,solve problems in healthcare,F,3,haigla,False
+191,haiglatädi suhtleb tervishoiuteenuse kasutajatega,haiglaonu suhtleb tervishoiuteenuse kasutajatega,interact with healthcare users,F,3,haigla,False
+192,haiglatädi rakendab palliatiivset ravi,haiglaonu rakendab palliatiivset ravi,provide palliative care,F,3,haigla,False
+193,haiglatädi rakendab elupäästmismeetmeid,haiglaonu rakendab elupäästmismeetmeid,initiate life preserving measures,F,2,haigla,False
+194,haiglatädi pakub tervisekoolitust,haiglaonu pakub tervisekoolitust,provide health education,F,2,haigla,False
+195,haiglatädi haldab tervishoiuteavet,haiglaonu haldab tervishoiuteavet,manage information in health care,F,2,haigla,False
+196,haiglatädi suhtleb tervishoiuküsimustes,haiglaonu suhtleb tervishoiuküsimustes,communicate in healthcare,F,2,haigla,False
+197,haiglatädi järgib ravijuhendit,haiglaonu järgib ravijuhendit,follow clinical guidelines,F,2,haigla,False
+198,haiglatädi järgib tervishoiuõigusakte,haiglaonu järgib tervishoiuõigusakte,comply with legislation related to health care,F,2,haigla,False
+199,haiglatädi osutab õendusabi,haiglaonu osutab õendusabi,implement nursing care,F,2,haigla,False
+200,haiglatädi paigaldab veenikanüüli,haiglaonu paigaldab veenikanüüli,perform venous cannulation ,F,2,haigla,False
+201,haiglatädi määrab ravimeid,haiglaonu määrab ravimeid,prescribe medication,F,2,haigla,False
+202,haiglatädi assisteerib neerusiirdamisel,haiglaonu assisteerib neerusiirdamisel,assist in kidney transplant,F,2,haigla,False
+203,hambaarstitädi nõustab toitumise ja selle poolt suuõõne tervisele avaldatava mõju küsimustes,hambaarstionu nõustab toitumise ja selle poolt suuõõne tervisele avaldatava mõju küsimustes,counsel on nutrition and its impact on oral health,F,10,hambaarsti,False
+204,hambaarstitädi dokumenteerib tervishoiuteenuse kasutajale arve esitamiseks vajalikku teavet,hambaarstionu dokumenteerib tervishoiuteenuse kasutajale arve esitamiseks vajalikku teavet,record healthcare users' billing information,F,7,hambaarsti,False
+205,hambaarstitädi korraldab suuõõne tervishoidu käsitlevaid avalikke programme,hambaarstionu korraldab suuõõne tervishoidu käsitlevaid avalikke programme,organise public oral health programmes,F,6,hambaarsti,False
+206,hambaarstitädi valib ortodontilise aparaadi jaoks materjale,hambaarstionu valib ortodontilise aparaadi jaoks materjale,select materials for orthodontic appliances,F,5,hambaarsti,False
+207,hambaarstitädi dokumenteerib hambaproteeside jaoks vajalikke andmeid,hambaarstionu dokumenteerib hambaproteeside jaoks vajalikke andmeid,keep records for dental prostheses,F,5,hambaarsti,False
+208,hambaarstitädi korrigeerib näokolju ja hammaste deformatsioone,hambaarstionu korrigeerib näokolju ja hammaste deformatsioone,correct dentofacial deformities,F,5,hambaarsti,False
+209,hambaarstitädi taastab hammaste loomulikku värvust,hambaarstionu taastab hammaste loomulikku värvust,restore teeths' natural colour,F,4,hambaarsti,False
+210,hambaarstitädi arutab hambaravi valikuid patsiendiga,hambaarstionu arutab hambaravi valikuid patsiendiga,discuss dental treatment options with patient,F,4,hambaarsti,False
+211,hambaarstitädi ravib puuduvate hammastega patsienti,hambaarstionu ravib puuduvate hammastega patsienti,manage edentulous patients,F,4,hambaarsti,False
+212,hambaarstitädi tõlgendab meditsiinilise läbivaatuse tulemusi,hambaarstionu tõlgendab meditsiinilise läbivaatuse tulemusi,interpret findings from medical examinations,F,4,hambaarsti,False
+213,hambaarstitädi teostab hammaste kliinilist läbivaatust,hambaarstionu teostab hammaste kliinilist läbivaatust,perform dental clinical examination,F,4,hambaarsti,False
+214,hambaarstitädi ravib hambapulbi haigusprotsessist haaratust,hambaarstionu ravib hambapulbi haigusprotsessist haaratust,treat exposure of dental pulp,F,4,hambaarsti,False
+215,hambaarstitädi teostab hambaraviprotseduuri käigus lokaalanesteesiat,hambaarstionu teostab hambaraviprotseduuri käigus lokaalanesteesiat,carry out local anesthesia in dental procedures,F,4,hambaarsti,False
+216,hambaarstitädi juhendab ortodontiliste protseduuride ajal,hambaarstionu juhendab ortodontiliste protseduuride ajal,provide instruction in orthodontic procedures,F,4,hambaarsti,False
+217,hambaarstitädi teostab suuõõne rekonstruktiivset operatsiooni,hambaarstionu teostab suuõõne rekonstruktiivset operatsiooni,perform reconstructive oral surgery,F,4,hambaarsti,False
+218,hambaarstitädi kirjutab hambaravi ravimiretsepti välja,hambaarstionu kirjutab hambaravi ravimiretsepti välja,write prescriptions for medication in dentistry,F,4,hambaarsti,False
+219,hambaarstitädi taastab kulunud hammastikku,hambaarstionu taastab kulunud hammastikku,rehabilitate worn dentition,F,3,hambaarsti,False
+220,hambaarstitädi eristab näo-lõualuupiirkonna kudesid,hambaarstionu eristab näo-lõualuupiirkonna kudesid,differentiate between maxillofacial tissues,F,3,hambaarsti,False
+221,hambaarstitädi osutab parodontoloogilist ravi,hambaarstionu osutab parodontoloogilist ravi,provide periodontal treatment,F,3,hambaarsti,False
+222,hambaarstitädi kasutab ortodontilisi vahendeid,hambaarstionu kasutab ortodontilisi vahendeid,use orthodontic tools,F,3,hambaarsti,False
+223,hambaarstitädi ravib anesteesia kõrvaltoimeid,hambaarstionu ravib anesteesia kõrvaltoimeid,manage adverse reactions to anaesthesia,F,3,hambaarsti,False
+224,hambaarstitädi paigaldab ortodontilist aparaati,hambaarstionu paigaldab ortodontilist aparaati,fit dental appliances,F,3,hambaarsti,False
+225,hambaarstitädi korrigeerib temporomandibulaarliigese anomaaliaid,hambaarstionu korrigeerib temporomandibulaarliigese anomaaliaid,correct temporomandibular joint abnormalities,F,3,hambaarsti,False
+226,hambaarstitädi diagnoosib näo-lõualuusüsteemi anomaaliaid,hambaarstionu diagnoosib näo-lõualuusüsteemi anomaaliaid,diagnose abnormalities of dental-facial structures,F,3,hambaarsti,False
+227,hambaarstitädi täidab tervishoiuüksuses infektsioonikontrollinõudeid,hambaarstionu täidab tervishoiuüksuses infektsioonikontrollinõudeid,manage infection control in the facility,F,3,hambaarsti,False
+228,hambaarstitädi osutab erakorralist hambaravi,hambaarstionu osutab erakorralist hambaravi,manage dental emergencies,F,3,hambaarsti,False
+229,hambaarstitädi haldab hambaravi raviarveldust,hambaarstionu haldab hambaravi raviarveldust,handle payments in dentistry,F,3,hambaarsti,False
+230,hambaarstitädi diagnoosib suuõõnetervist,hambaarstionu diagnoosib suuõõnetervist,perform oral health diagnosis,F,2,hambaarsti,False
+231,hambaarstitädi juhib hambaraviüksust,hambaarstionu juhib hambaraviüksust,lead the dental team,F,2,hambaarsti,False
+232,hambaarstitädi ravib norskamisprobleeme,hambaarstionu ravib norskamisprobleeme,treat snoring problems,F,2,hambaarsti,False
+233,hambaarstitädi ravib hambakaariest,hambaarstionu ravib hambakaariest,treat tooth decay,F,2,hambaarsti,False
+234,hambaarstitädi korrigeerib hambumust,hambaarstionu korrigeerib hambumust,manage occlusion,F,2,hambaarsti,False
+235,hambaarstitädi juhendab hambaravitöötajaid,hambaarstionu juhendab hambaravitöötajaid,supervise dental staff,F,2,hambaarsti,False
+236,hambaarstitädi ravib hambumusanomaaliat,hambaarstionu ravib hambumusanomaaliat,treat cases of malocclusion,F,2,hambaarsti,False
+237,hoidjatädi hoolitseb laste füüsiliste põhivajaduste eest,hoidjaonu hoolitseb laste füüsiliste põhivajaduste eest,attend to children's basic physical needs,F,5,hoidja,False
+238,hoidjatädi abistab lapsi koduülesannete tegemisel,hoidjaonu abistab lapsi koduülesannete tegemisel,assist children with homework,F,4,hoidja,False
+239,hoidjatädi valvab laste järele,hoidjaonu valvab laste järele,supervise children,F,3,hoidja,False
+240,hoidjatädi mängib lastega,hoidjaonu mängib lastega,play with children,F,2,hoidja,False
+241,hostelitädi juhib majutusasutuse osakondade koostööd,hostelionu juhib majutusasutuse osakondade koostööd,manage different departments in a hospitality establishment,F,4,hosteli,False
+242,hostelitädi haldab majutusasutuse tulusid,hostelionu haldab majutusasutuse tulusid,manage hospitality revenue,F,3,hosteli,False
+243,hostelitädi abistab vastuvõtulauas,hostelionu abistab vastuvõtulauas,assist at check-in,F,2,hosteli,True
+244,hostelitädi säilitab klienditeenindust,hostelionu säilitab klienditeenindust,maintain customer service,F,2,hosteli,True
+245,hostelitädi rakendab hinnastamisstrateegiaid,hostelionu rakendab hinnastamisstrateegiaid,set up pricing strategies,F,2,hosteli,False
+246,hostelitädi lahendab kliendikaebusi,hostelionu lahendab kliendikaebusi,handle customer complaints,F,2,hosteli,True
+247,hostelitädi prognoosib täituvust,hostelionu prognoosib täituvust,forecast occupancy demand,F,2,hosteli,False
+248,hotellitädi võtab toateeninduse tellimusi vastu,hotellionu võtab toateeninduse tellimusi vastu,take room service orders,F,4,hotelli,False
+249,hotellitädi teenindab majutusasutusse saabujaid,hotellionu teenindab majutusasutusse saabujaid,deal with arrivals in accommodation,F,3,hotelli,False
+250,hotellitädi teostab päevalõpu arveldusaruannet,hotellionu teostab päevalõpu arveldusaruannet,carry out end of day accounts,F,3,hotelli,False
+251,hotellitädi jälgib külastajate sissepääsu,hotellionu jälgib külastajate sissepääsu,monitor guest access,F,3,hotelli,False
+252,hotellitädi abistab erivajadustega kliente,hotellionu abistab erivajadustega kliente,assist clients with special needs,F,3,hotelli,False
+253,hotellitädi lahendab kliendikaebusi,hotellionu lahendab kliendikaebusi,handle customer complaints,F,2,hotelli,True
+254,hotellitädi abistab vastuvõtulauas,hotellionu abistab vastuvõtulauas,assist at check-in,F,2,hotelli,True
+255,hotellitädi säilitab klienditeenindust,hotellionu säilitab klienditeenindust,maintain customer service,F,2,hotelli,True
+256,hotellitädi töötleb broneeringuid,hotellionu töötleb broneeringuid,process reservations,F,2,hotelli,False
+257,hotellitädi töötleb makseid,hotellionu töötleb makseid,process payments,F,2,hotelli,True
+258,hotellitädi peab külalisarhiivi,hotellionu peab külalisarhiivi,maintain customer records,F,2,hotelli,False
+259,infotädi veenab alternatiivide võrdlemise teel kliente,infoonu veenab alternatiivide võrdlemise teel kliente,persuade clients with alternatives,F,5,info,False
+260,infotädi töötab kodanikele pakutavate e-teenuste alal,infoonu töötab kodanikele pakutavate e-teenuste alal,work with e-services available to citizens,F,5,info,False
+261,infotädi menetleb abiliinile teatatud probleeme,infoonu menetleb abiliinile teatatud probleeme,handle helpdesk problems,F,4,info,False
+262,infotädi leiab probleemidele lahendusi,infoonu leiab probleemidele lahendusi,create solutions to problems,F,3,info,True
+263,infotädi vastab päringutele kirjalikult,infoonu vastab päringutele kirjalikult,respond to inquiries in written form,F,3,info,False
+264,infolauatädi märgib kliendisuhtluse infot üles,infolauaonu märgib kliendisuhtluse infot üles,keep records of customer interaction,F,4,infolaua,False
+265,infolauatädi sisestab kliendi andmeid tellimusvormile,infolauaonu sisestab kliendi andmeid tellimusvormile,process order forms with customer's information,F,4,infolaua,False
+266,infolauatädi leiab probleemidele lahendusi,infolauaonu leiab probleemidele lahendusi,create solutions to problems,F,3,infolaua,True
+267,infolauatädi korraldama konfliktijuhtimist,infolauaonu korraldama konfliktijuhtimist,apply conflict management,F,2,infolaua,False
+268,infolauatädi müüb lisatooteid,infolauaonu müüb lisatooteid,upsell products,F,2,infolaua,False
+269,juhitädi püüdleb ettevõtte kasvu poole,juhionu püüdleb ettevõtte kasvu poole,strive for company growth,M,4,juhi,False
+270,juhitädi esitab tasuvusanalüüside aruandeid,juhionu esitab tasuvusanalüüside aruandeid,provide cost benefit analysis reports,M,3,juhi,False
+271,juhitädi analüüsib eesmärkide saavutamist,juhionu analüüsib eesmärkide saavutamist,analyse goal progress,M,3,juhi,False
+272,juhitädi teeb juhtidega koostööd,juhionu teeb juhtidega koostööd,liaise with managers,M,3,juhi,False
+273,juhitädi peab sidusrühmadega läbirääkimisi,juhionu peab sidusrühmadega läbirääkimisi,negotiate with stakeholders,M,3,juhi,False
+274,juhitädi suhtleb kvaliteedikontrolli tegijaga,juhionu suhtleb kvaliteedikontrolli tegijaga,liaise with quality assurance,M,3,juhi,False
+275,juhitädi sõlmib tarnijatega kokkuleppeid,juhionu sõlmib tarnijatega kokkuleppeid,negotiate supplier arrangements,M,3,juhi,False
+276,juhitädi haldab varusid,juhionu haldab varusid,manage supplies,M,2,juhi,False
+277,juhitädi haldab eelarveid,juhionu haldab eelarveid,manage budgets,M,2,juhi,False
+278,juhitädi analüüsib andmeid,juhionu analüüsib andmeid,perform data analysis,M,2,juhi,False
+279,juhitädi optimeerib finantstulemusi,juhionu optimeerib finantstulemusi,optimise financial performance,M,2,juhi,False
+280,juhitädi juhib personali,juhionu juhib personali,manage staff,M,2,juhi,False
+281,juhitädi jälgib kvaliteedikontrolli,juhionu jälgib kvaliteedikontrolli,oversee quality control,M,2,juhi,False
+282,juhitädi parandab äriprotsesse,juhionu parandab äriprotsesse,improve business processes,M,2,juhi,False
+283,juhitädi jagab tootmisplaani,juhionu jagab tootmisplaani,disaggregate the production plan,M,2,juhi,False
+284,juhitädi edastab tootmisplaani,juhionu edastab tootmisplaani,communicate production plan,M,2,juhi,False
+285,juhitädi juhib tootmist,juhionu juhib tootmist,control production,M,2,juhi,False
+286,juhitädi värbab töötajaid,juhionu värbab töötajaid,recruit employees,M,2,juhi,False
+287,juhitädi juhib turustuskanaleid,juhionu juhib turustuskanaleid,manage distribution channels,M,2,juhi,False
+288,juhitädi tuvastab energiavajadusi,juhionu tuvastab energiavajadusi,identify energy needs,M,2,juhi,False
+289,juhitädi teeb turu-uuringut,juhionu teeb turu-uuringut,perform market research,M,2,juhi,False
+290,juuksuritädi annab kosmeetikaga seotud ilunõu,juuksurionu annab kosmeetikaga seotud ilunõu,offer cosmetic beauty advice,F,4,juuksuri,False
+291,juuksuritädi nõustab kliente juukseprobleemide küsimuses,juuksurionu nõustab kliente juukseprobleemide küsimuses,help customers with hair problems,F,4,juuksuri,False
+292,juuksuritädi nõustab soengustiilide küsimuses,juuksurionu nõustab soengustiilide küsimuses,advise on hair style,F,3,juuksuri,False
+293,juuksuritädi püsib soengumoega kursis,juuksurionu püsib soengumoega kursis,stay up-to-date with hair style trends,F,3,juuksuri,False
+294,juuksuritädi soovitab klientidele kosmeetikat,juuksurionu soovitab klientidele kosmeetikat,recommend cosmetics to customers,F,3,juuksuri,False
+295,juuksuritädi teeb soengut,juuksurionu teeb soengut,style hair,F,2,juuksuri,False
+296,juuksuritädi peseb juukseid,juuksurionu peseb juukseid,wash hair,F,2,juuksuri,False
+297,juuksuritädi teeb juukselokke,juuksurionu teeb juukselokke,curl hair,F,2,juuksuri,False
+298,juuksuritädi värvib juukseid,juuksurionu värvib juukseid,dye hair,F,2,juuksuri,False
+299,juuksuritädi müüb juuksehooldustooteid,juuksurionu müüb juuksehooldustooteid,sell hair products,F,2,juuksuri,False
+300,juuksuritädi ravib peanahaprobleeme,juuksurionu ravib peanahaprobleeme,treat scalp conditions,F,2,juuksuri,False
+301,juuksuritädi hooldab parukaid,juuksurionu hooldab parukaid,maintain wigs,F,2,juuksuri,False
+302,juuksuritädi hooldab habemeid,juuksurionu hooldab habemeid,treat facial hair,F,2,juuksuri,False
+303,juuksuritädi kujundab soengustiile,juuksurionu kujundab soengustiile,design hair style,F,2,juuksuri,False
+304,kassatädi peab tehingute registrit,kassaonu peab tehingute registrit,maintain transaction's reports,F,3,kassa,False
+305,kassatädi pakib kaupu kingitusteks,kassaonu pakib kaupu kingitusteks,pack merchandise for gifts,F,3,kassa,False
+306,kassatädi reserveerib kaupu klientidele,kassaonu reserveerib kaupu klientidele,reserve merchandise for customers,F,3,kassa,False
+307,kassatädi pakib oste kottidesse,kassaonu pakib oste kottidesse,package purchases in bags,F,3,kassa,False
+308,kassatädi hoiab kassa-ala puhtana,kassaonu hoiab kassa-ala puhtana,maintain check-out area cleanliness,F,3,kassa,False
+309,kassatädi kasutab kassaaparaati,kassaonu kasutab kassaaparaati,operate cash register,F,2,kassa,False
+310,kassatädi töötleb tagasimakseid,kassaonu töötleb tagasimakseid,process refunds,F,2,kassa,False
+311,kassatädi töötleb makseid,kassaonu töötleb makseid,process payments,F,2,kassa,True
+312,kassatädi väljastab müügiarveid,kassaonu väljastab müügiarveid,issue sales invoices,F,2,kassa,False
+313,kassatädi kaalub materjale,kassaonu kaalub materjale,weigh materials,F,2,kassa,False
+314,kassatädi loeb sularaha,kassaonu loeb sularaha,count money,F,2,kassa,False
+315,kassatädi paigaldab hinnasilte,kassaonu paigaldab hinnasilte,put up price tags,F,2,kassa,False
+316,kassatädi haldab lojaalsussüsteeme,kassaonu haldab lojaalsussüsteeme,process loyalty schemes,F,2,kassa,False
+317,kassatädi jälgib kassat,kassaonu jälgib kassat,monitor check-out point,F,2,kassa,False
+318,kasvatajatädi aitab laste individuaalsete oskuste arengule kaasa,kasvatajaonu aitab laste individuaalsete oskuste arengule kaasa,assist children in developing personal skills,F,6,kasvataja,False
+319,kasvatajatädi julgustab õppureid oma saavutusi hindama,kasvatajaonu julgustab õppureid oma saavutusi hindama,encourage students to acknowledge their achievements,F,5,kasvataja,False
+320,kasvatajatädi konsulteerib õpitava sisu teemal õppuritega,kasvatajaonu konsulteerib õpitava sisu teemal õppuritega,consult students on learning content,F,5,kasvataja,False
+321,kasvatajatädi rakendab laste hoolekandeprogramme,kasvatajaonu rakendab laste hoolekandeprogramme,implement care programmes for children,F,3,kasvataja,False
+322,kasvatajatädi õpetab lasteaiatundide sisu,kasvatajaonu õpetab lasteaiatundide sisu,teach kindergarten class content,F,3,kasvataja,False
+323,kasvatajatädi pakub koolijärgset tegevust,kasvatajaonu pakub koolijärgset tegevust,provide after school care,F,3,kasvataja,False
+324,kasvatajatädi peab mänguväljakul korda,kasvatajaonu peab mänguväljakul korda,perform playground surveillance,F,3,kasvataja,False
+325,kasvatajatädi korraldab loomingulist esinemist,kasvatajaonu korraldab loomingulist esinemist,organise creative performance,F,3,kasvataja,False
+326,kasvatajatädi kasutab õppimisstrateegiaid,kasvatajaonu kasutab õppimisstrateegiaid,use learning strategies,F,2,kasvataja,False
+327,kasvatajatädi pakub õppematerjale,kasvatajaonu pakub õppematerjale,provide lesson materials,F,2,kasvataja,False
+328,kasvatajatädi suhtleb lastevanematega,kasvatajaonu suhtleb lastevanematega,maintain relations with children's parents,F,2,kasvataja,False
+329,keeletädi rakendab teadusuuringutes teaduseetika ja teadustöö usaldusväärsuse põhimõtteid,keeleonu rakendab teadusuuringutes teaduseetika ja teadustöö usaldusväärsuse põhimõtteid,apply research ethics and scientific integrity principles in research activities,F,7,keele,False
+330,keeletädi teostab eri teadusharusid hõlmavaid teadusuuringuid,keeleonu teostab eri teadusharusid hõlmavaid teadusuuringuid,conduct research across disciplines,F,5,keele,False
+331,keeletädi teeb lingvistilise protsessi etappides koostööd,keeleonu teeb lingvistilise protsessi etappides koostööd,cooperate in linguistic process steps,F,5,keele,False
+332,keeletädi lõimib soolist mõõdet teadusuuringutesse,keeleonu lõimib soolist mõõdet teadusuuringutesse,integrate gender dimension in research,F,4,keele,False
+333,keeletädi töötab teaduslikke teooriaid välja,keeleonu töötab teaduslikke teooriaid välja,develop scientific theories,F,4,keele,False
+334,keeletädi uurib keele omandamist,keeleonu uurib keele omandamist,study acquisition of language,F,3,keele,False
+335,keeletädi levitab teadusringkondadele tulemusi,keeleonu levitab teadusringkondadele tulemusi,disseminate results to the scientific community,F,3,keele,False
+336,keeletädi taotleb teadustöö rahastamist,keeleonu taotleb teadustöö rahastamist,apply for research funding,F,3,keele,False
+337,keeletädi rakendab teaduslikke meetodeid,keeleonu rakendab teaduslikke meetodeid,apply scientific methods,F,3,keele,False
+338,keeletädi avaldab akadeemilisi uurimusi,keeleonu avaldab akadeemilisi uurimusi,publish academic research,F,3,keele,False
+339,keeletädi teavitab teaduslikest avastustest,keeleonu teavitab teaduslikest avastustest,communicate with a non-scientific audience ,F,3,keele,False
+340,keeletädi koostab terminoloogia andmebaase,keeleonu koostab terminoloogia andmebaase,develop terminology databases,F,3,keele,False
+341,keeletädi kirjutab teadusprojekti ettepanekuid,keeleonu kirjutab teadusprojekti ettepanekuid,write research proposals,F,3,keele,False
+342,keeletädi teeb avalikke uuringuid,keeleonu teeb avalikke uuringuid,conduct public surveys,F,3,keele,False
+343,keeletädi parandab tõlgitud tekste,keeleonu parandab tõlgitud tekste,improve translated texts,F,3,keele,False
+344,keeletädi haldab teadusandmed,keeleonu haldab teadusandmed,manage research data,F,2,keele,False
+345,keeletädi hindab teadustegevusi,keeleonu hindab teadustegevusi,evaluate research activities,F,2,keele,False
+346,keeletädi teeb teadusuuringuid,keeleonu teeb teadusuuringuid,perform scientific research,F,2,keele,False
+347,keeletädi edendab teadmussiiret,keeleonu edendab teadmussiiret,promote the transfer of knowledge,F,2,keele,False
+348,keeletädi kirjutab teaduspublikatsioone,keeleonu kirjutab teaduspublikatsioone,write scientific publications,F,2,keele,False
+349,keeletädi intervjueerib sihtrühmi,keeleonu intervjueerib sihtrühmi,interview focus groups,F,2,keele,False
+350,keeletädi koostab tehnikasõnastikke,keeleonu koostab tehnikasõnastikke,develop technical glossaries,F,2,keele,False
+351,keeletädi õpetab keeli,keeleonu õpetab keeli,teach languages,F,2,keele,False
+352,keeletädi rakendab põimõpet,keeleonu rakendab põimõpet,apply blended learning,F,2,keele,False
+353,keeletädi teeb välitöid,keeleonu teeb välitöid,conduct field work,F,2,keele,False
+354,keeletädi tõlgib keelemõisteid,keeleonu tõlgib keelemõisteid,translate language concepts,F,2,keele,False
+355,keevitajatädi valmistab osi ühendamiseks ette,keevitajaonu valmistab osi ühendamiseks ette,prepare pieces for joining,M,4,keevitaja,False
+356,keevitajatädi tagab metalli sobivat temperatuuri,keevitajaonu tagab metalli sobivat temperatuuri,ensure correct metal temperature,M,4,keevitaja,False
+357,keevitajatädi söödab seadmesse materjali,keevitajaonu söödab seadmesse materjali,supply machine,M,3,keevitaja,False
+358,keevitajatädi kontrollib toodete kvaliteeti,keevitajaonu kontrollib toodete kvaliteeti,inspect quality of products,M,3,keevitaja,False
+359,keevitajatädi teeb töödetaili eeltöötlust,keevitajaonu teeb töödetaili eeltöötlust,apply preliminary treatment to workpieces,M,3,keevitaja,False
+360,keevitajatädi märkab metalli defekte,keevitajaonu märkab metalli defekte,spot metal imperfections,M,3,keevitaja,False
+361,keevitajatädi hooldab mehhaanilisi seadmeid,keevitajaonu hooldab mehhaanilisi seadmeid,maintain mechanical equipment,M,3,keevitaja,False
+362,keevitajatädi tagab õiget gaasirõhku,keevitajaonu tagab õiget gaasirõhku,ensure correct gas pressure,M,3,keevitaja,False
+363,keevitajatädi rakendab tehnilisi ressursse,keevitajaonu rakendab tehnilisi ressursse,consult technical resources,M,3,keevitaja,False
+364,keevitajatädi silub karedaid pindu,keevitajaonu silub karedaid pindu,smooth burred surfaces,M,3,keevitaja,False
+365,keevitajatädi dokumenteerib töö edenemist,keevitajaonu dokumenteerib töö edenemist,keep records of work progress,M,3,keevitaja,False
+366,keevitajatädi töötab elektronkeevitusseadmega,keevitajaonu töötab elektronkeevitusseadmega,tend electron beam welding machine,M,2,keevitaja,False
+367,keevitajatädi hooldab vaakumkambrit,keevitajaonu hooldab vaakumkambrit,maintain vacuum chamber,M,2,keevitaja,False
+368,keevitajatädi jälgib mõõturit,keevitajaonu jälgib mõõturit,monitor gauge,M,2,keevitaja,False
+369,keevitajatädi kasutab keevitusseadmeid,keevitajaonu kasutab keevitusseadmeid,operate welding equipment,M,2,keevitaja,False
+370,keevitajatädi kasutab CAM-tarkvara,keevitajaonu kasutab CAM-tarkvara,use CAM software,M,2,keevitaja,False
+371,keevitajatädi kasutab automaatprogrammeerimist,keevitajaonu kasutab automaatprogrammeerimist,use automatic programming,M,2,keevitaja,False
+372,keevitajatädi hooldab masinat,keevitajaonu hooldab masinat,perform machine maintenance,M,2,keevitaja,False
+373,keevitajatädi programmeerib CNC-kontrollerit,keevitajaonu programmeerib CNC-kontrollerit,program a CNC controller,M,2,keevitaja,False
+374,keevitajatädi käsitseb täppismõõtmisseadmeid,keevitajaonu käsitseb täppismõõtmisseadmeid,operate precision measuring equipment,M,2,keevitaja,False
+375,kelneritädi annab klientidele kohvi- ja teesortide osas nõu,kelnerionu annab klientidele kohvi- ja teesortide osas nõu,educate customers on coffee varieties,F,7,kelneri,False
+376,kelneritädi võtab klientidelt toidu- ja joogitellimusi vastu,kelnerionu võtab klientidelt toidu- ja joogitellimusi vastu,take food and beverage orders from customers,F,6,kelneri,False
+377,kelneritädi soovitab külastajatele menüüsid erisündmusteks,kelnerionu soovitab külastajatele menüüsid erisündmusteks,advise guests on menus for special events,F,4,kelneri,False
+378,kelneritädi valmistab restorani teenindamiseks ette,kelnerionu valmistab restorani teenindamiseks ette,prepare the restaurant for service,F,4,kelneri,False
+379,kelneritädi nõustab kliente seoses teesortidega,kelnerionu nõustab kliente seoses teesortidega,educate customers on tea varieties,F,4,kelneri,False
+380,kelneritädi serveerib toitu lauda,kelnerionu serveerib toitu lauda,serve food in table service,F,3,kelneri,False
+381,kelneritädi hoolitseb VIP-külaliste eest,kelnerionu hoolitseb VIP-külaliste eest,assist VIP guests,F,3,kelneri,False
+382,kelneritädi mõõdab klientide tagasisidet,kelnerionu mõõdab klientide tagasisidet,measure customer feedback,F,3,kelneri,False
+383,kelneritädi võtab restoranikülastajaid vastu,kelnerionu võtab restoranikülastajaid vastu,welcome restaurant guests,F,3,kelneri,False
+384,kelneritädi valmistab kuumi jooke,kelnerionu valmistab kuumi jooke,prepare hot drinks,F,3,kelneri,False
+385,kelneritädi kontrollib söögisaali puhtust,kelnerionu kontrollib söögisaali puhtust,check dining room cleanliness,F,3,kelneri,False
+386,kelneritädi valmistab serveerimiskärusid ette,kelnerionu valmistab serveerimiskärusid ette,prepare service trolleys,F,3,kelneri,False
+387,kelneritädi paigutab laudasid,kelnerionu paigutab laudasid,arrange tables,F,2,kelneri,False
+388,kelneritädi esitleb menüüsid,kelnerionu esitleb menüüsid,present menus,F,2,kelneri,False
+389,kelneritädi soovitab veine,kelnerionu soovitab veine,recommend wines,F,2,kelneri,False
+390,kelneritädi dekanteerib veine,kelnerionu dekanteerib veine,decant wines,F,2,kelneri,False
+391,kiirabitädi hindab vigastusi või haigusseisundit erakorralise abi korral,kiirabionu hindab vigastusi või haigusseisundit erakorralise abi korral,assess nature of injury in emergency,M,7,kiirabi,False
+392,kiirabitädi jälgib patsiendi haiglasse transportimisel tema seisundit,kiirabionu jälgib patsiendi haiglasse transportimisel tema seisundit,monitor patients during transfer to hospital,M,6,kiirabi,False
+393,kiirabitädi toimetab patsienti kiirabisõidukisse ja sealt välja,kiirabionu toimetab patsienti kiirabisõidukisse ja sealt välja,transfer patients to and from ambulance vehicles,M,6,kiirabi,False
+394,kiirabitädi tagab raviprotseduuri ajal patsiendi asjakohast asendit,kiirabionu tagab raviprotseduuri ajal patsiendi asjakohast asendit,position patients undergoing interventions,M,6,kiirabi,False
+395,kiirabitädi juhib helikopterit erakorralise abi vajaduse tingimustes,kiirabionu juhib helikopterit erakorralise abi vajaduse tingimustes,drive helicopter under emergency conditions,M,6,kiirabi,False
+396,kiirabitädi töötab interdistsiplinaarses erakorralise meditsiini üksuses,kiirabionu töötab interdistsiplinaarses erakorralise meditsiini üksuses,work in multidisciplinary teams related to emergency care,M,5,kiirabi,False
+397,kiirabitädi hoiab kiirabisõiduki varustust töökorras,kiirabionu hoiab kiirabisõiduki varustust töökorras,maintain emergency vehicle equipment,M,4,kiirabi,False
+398,kiirabitädi tagab kiirabiauto tehnilist korrasolekut,kiirabionu tagab kiirabiauto tehnilist korrasolekut,ensure ambulance roadworthiness,M,4,kiirabi,False
+399,kiirabitädi juhib kiirabiautot operatiivsõidul,kiirabionu juhib kiirabiautot operatiivsõidul,drive ambulance under emergency conditions,M,3,kiirabi,False
+400,kiirabitädi dokumenteerib erakorralisi haigusjuhte,kiirabionu dokumenteerib erakorralisi haigusjuhte,write reports on emergency cases,M,3,kiirabi,False
+401,kiirabitädi annab esmaabi,kiirabionu annab esmaabi,provide first aid,M,2,kiirabi,False
+402,kiirabitädi teisaldab patsiente,kiirabionu teisaldab patsiente,transfer patients,M,2,kiirabi,False
+403,kiirabitädi käitleb traumapatsienti,kiirabionu käitleb traumapatsienti,handle patient trauma,M,2,kiirabi,False
+404,kinnisvaratädi nõustab kinnisvara väärtuse küsimuses,kinnisvaraonu nõustab kinnisvara väärtuse küsimuses,advise on property value,M,4,kinnisvara,False
+405,kinnisvaratädi annab kinnisvara kohta teavet,kinnisvaraonu annab kinnisvara kohta teavet,provide information on properties,M,4,kinnisvara,False
+406,kinnisvaratädi kogub kinnisvara kohta finantsinfot,kinnisvaraonu kogub kinnisvara kohta finantsinfot,collect property financial information,M,4,kinnisvara,False
+407,kinnisvaratädi teeb kinnisvara päraldiste inventuuri,kinnisvaraonu teeb kinnisvara päraldiste inventuuri,prepare inventory of properties,M,4,kinnisvara,False
+408,kinnisvaratädi valmistab kinnisvaralepinguid ette,kinnisvaraonu valmistab kinnisvaralepinguid ette,prepare real estate contract,M,3,kinnisvara,False
+409,kinnisvaratädi nõustab investeeringute küsimuses,kinnisvaraonu nõustab investeeringute küsimuses,advise on investment,M,3,kinnisvara,False
+410,kinnisvaratädi haldab üürnike vahetumist,kinnisvaraonu haldab üürnike vahetumist,handle tenant changeover,M,3,kinnisvara,False
+411,kinnisvaratädi kontrollib ehitiste seisundit,kinnisvaraonu kontrollib ehitiste seisundit,examine the conditions of buildings,M,3,kinnisvara,False
+412,kinnisvaratädi planeerib hoonete hooldustöid,kinnisvaraonu planeerib hoonete hooldustöid,plan buildings maintenance work,M,3,kinnisvara,False
+413,kinnisvaratädi korraldab kinnisvaraga tutvumist,kinnisvaraonu korraldab kinnisvaraga tutvumist,organise property viewing,M,3,kinnisvara,False
+414,kinnisvaratädi tutvustab üürilepinguid,kinnisvaraonu tutvustab üürilepinguid,inform on renting agreements,M,2,kinnisvara,False
+415,kinnisvaratädi suhtleb kinnisvaraomanikega,kinnisvaraonu suhtleb kinnisvaraomanikega,liaise with property owners,M,2,kinnisvara,False
+416,kinnisvaratädi hindab kinnisvara,kinnisvaraonu hindab kinnisvara,value properties,M,2,kinnisvara,False
+417,kinnisvaratädi võrdleb kinnisvarahindu,kinnisvaraonu võrdleb kinnisvarahindu,compare property values,M,2,kinnisvara,False
+418,kinnisvaratädi teeb kinnisvarauuringuid,kinnisvaraonu teeb kinnisvarauuringuid,perform property market research,M,2,kinnisvara,False
+419,kinnisvaratädi jälgib kinnisvaratehinguid,kinnisvaraonu jälgib kinnisvaratehinguid,monitor title procedures,M,2,kinnisvara,False
+420,kirikutädi tõlgendab usulisi tekste,kirikuonu tõlgendab usulisi tekste,interpret religious texts,M,3,kiriku,False
+421,kirikutädi teostab usulisi tseremooniaid,kirikuonu teostab usulisi tseremooniaid,perform religious ceremonies,M,3,kiriku,False
+422,kirikutädi nõustab spirituaalsetes küsimustes,kirikuonu nõustab spirituaalsetes küsimustes,provide spiritual counselling,M,3,kiriku,False
+423,kirikutädi valmistab usutalitusi ette,kirikuonu valmistab usutalitusi ette,prepare religious services,M,3,kiriku,False
+424,kirikutädi edendab usulist tegevust,kirikuonu edendab usulist tegevust,promote religious activities,M,3,kiriku,False
+425,kirikutädi pühitseb usutegelasi ametisse,kirikuonu pühitseb usutegelasi ametisse,ordain religious officials,M,3,kiriku,False
+426,kirikutädi õpetab usulisi tekste,kirikuonu õpetab usulisi tekste,teach religious texts,M,3,kiriku,False
+427,kirikutädi peab jumalateenistust,kirikuonu peab jumalateenistust,perform church service,M,2,kiriku,False
+428,kirikutädi abistab misjonitöös,kirikuonu abistab misjonitöös,assist missionary work,M,2,kiriku,False
+429,kirikutädi juhendab usuvahetust,kirikuonu juhendab usuvahetust,guide conversion,M,2,kiriku,False
+430,kirikutädi abistab jumalateenistusel,kirikuonu abistab jumalateenistusel,assist in church service,M,2,kiriku,False
+431,kirikutädi sõlmib abielusid,kirikuonu sõlmib abielusid,officiate weddings,M,2,kiriku,False
+432,kirikutädi koolitab ususpetsialiste,kirikuonu koolitab ususpetsialiste,train religious professionals,M,2,kiriku,False
+433,kirjanikutädi peab avaldamisõiguste küsimuses läbirääkimisi,kirjanikuonu peab avaldamisõiguste küsimuses läbirääkimisi,negotiate publishing rights,F,4,kirjaniku,False
+434,kirjanikutädi peab kirjutades tähtajast kinni,kirjanikuonu peab kirjutades tähtajast kinni,write to a deadline,F,4,kirjaniku,False
+435,kirjanikutädi otsib allikatest teavet,kirjanikuonu otsib allikatest teavet,consult information sources,F,3,kirjaniku,True
+436,kirjanikutädi arendab loomingulisi ideid,kirjanikuonu arendab loomingulisi ideid,develop creative ideas,F,3,kirjaniku,False
+437,kirjanikutädi reklaamib oma kirjutisi,kirjanikuonu reklaamib oma kirjutisi,promote one's writings,F,3,kirjaniku,False
+438,kirjanikutädi arvustab teisi kirjanikke,kirjanikuonu arvustab teisi kirjanikke,critique other writers,F,3,kirjaniku,False
+439,kirjanikutädi kirjutab dialooge,kirjanikuonu kirjutab dialooge,write dialogues,F,2,kirjaniku,False
+440,kirjanikutädi kirjutab süžeed,kirjanikuonu kirjutab süžeed,write storylines,F,2,kirjaniku,False
+441,kirjanikutädi valib teemat,kirjanikuonu valib teemat,select subject matter,F,2,kirjaniku,False
+442,kirjanikutädi järgib avaldamisstandardeid,kirjanikuonu järgib avaldamisstandardeid,respect publication formats,F,2,kirjaniku,False
+443,kirjanikutädi õpetab kirjutamist,kirjanikuonu õpetab kirjutamist,teach writing,F,2,kirjaniku,False
+444,kirjanikutädi suhtleb raamatukirjastajatega,kirjanikuonu suhtleb raamatukirjastajatega,liaise with book publishers,F,2,kirjaniku,False
+445,kirjanikutädi osaleb raamatumessidel,kirjanikuonu osaleb raamatumessidel,attend book fairs,F,2,kirjaniku,False
+446,kirjanikutädi korrigeerib teksti,kirjanikuonu korrigeerib teksti,proofread text,F,2,kirjaniku,False
+447,kirjanikutädi konsulteerib toimetajaga,kirjanikuonu konsulteerib toimetajaga,consult with editor,F,2,kirjaniku,False
+448,kokatädi valmistab kastmetes kasutatavaid toiduaineid ette,kokaonu valmistab kastmetes kasutatavaid toiduaineid ette,prepare saucier products for use in a dish,F,5,koka,False
+449,kokatädi hoiab köögiseadmete õiget temperatuuri,kokaonu hoiab köögiseadmete õiget temperatuuri,maintain kitchen equipment at correct temperature,F,4,koka,False
+450,kokatädi valmistab liha toidutegemiseks ette,kokaonu valmistab liha toidutegemiseks ette,prepare meat products for use in a dish,F,4,koka,False
+451,kokatädi valmistab kastmeid ja suppe,kokaonu valmistab kastmeid ja suppe,cook sauce products,F,4,koka,False
+452,kokatädi valmistab köögivilju toidutegemiseks ette,kokaonu valmistab köögivilju toidutegemiseks ette,prepare vegetable products for use in a dish,F,4,koka,False
+453,kokatädi valmistab munatooteid toidutegemiseks ette,kokaonu valmistab munatooteid toidutegemiseks ette,prepare egg products for use in a dish,F,4,koka,False
+454,kokatädi valmistab toitu,kokaonu valmistab toitu,cook seafood,F,3,koka,False
+455,kokatädi valmistab valmistoitusid ette,kokaonu valmistab valmistoitusid ette,prepare ready-made dishes,F,3,koka,False
+456,kokatädi valmistab piimatoodetest toitusid,kokaonu valmistab piimatoodetest toitusid,cook dairy products,F,3,koka,False
+457,kokatädi loob dekoratiivseid toiduväljapanekuid,kokaonu loob dekoratiivseid toiduväljapanekuid,create decorative food displays,F,3,koka,False
+458,kokatädi valmistab flambeeritud roogi,kokaonu valmistab flambeeritud roogi,prepare flambeed dishes,F,3,koka,False
+459,kokatädi tükeldab kala,kokaonu tükeldab kala,slice fish,F,2,koka,False
+460,kokatädi valmistab võileibu,kokaonu valmistab võileibu,prepare sandwiches,F,2,koka,False
+461,kokatädi valmistab salatikastmeid,kokaonu valmistab salatikastmeid,prepare salad dressings,F,2,koka,False
+462,kokatädi valmistab pagaritooteid,kokaonu valmistab pagaritooteid,prepare bakery products,F,2,koka,False
+463,kokatädi valmistab köögiviljatoitusid,kokaonu valmistab köögiviljatoitusid,cook vegetable products,F,2,koka,False
+464,kokatädi koostab menüüsid,kokaonu koostab menüüsid,plan menus,F,2,koka,False
+465,kokatädi jahutab toiduaineid,kokaonu jahutab toiduaineid,execute chilling processes to food products,F,2,koka,False
+466,kokatädi valmistab magustoitusid,kokaonu valmistab magustoitusid,prepare desserts,F,2,koka,False
+467,kokatädi valmistab liharoogi,kokaonu valmistab liharoogi,cook meat dishes,F,2,koka,False
+468,koristajatädi puhastab keerukaid objekte käsitsi,koristajaonu puhastab keerukaid objekte käsitsi,clean particular areas manually,F,4,koristaja,False
+469,koristajatädi teeb hoonete kommunaalsüsteemide pisiremonti,koristajaonu teeb hoonete kommunaalsüsteemide pisiremonti,perform minor repairs to buildings' systems,F,4,koristaja,False
+470,koristajatädi haldab koristustarvete varusid,koristajaonu haldab koristustarvete varusid,maintain inventory of cleaning supplies,F,3,koristaja,False
+471,koristajatädi puhastab hoone fassaadi,koristajaonu puhastab hoone fassaadi,clean building facade,F,3,koristaja,False
+472,koristajatädi teeb puhastustöid keskkonnasõbralikult,koristajaonu teeb puhastustöid keskkonnasõbralikult,perform cleaning activities in an environmentally friendly way,F,3,koristaja,False
+473,koristajatädi käitleb keemilisi puhastusvahendeid,koristajaonu käitleb keemilisi puhastusvahendeid,handle chemical cleaning agents,F,3,koristaja,False
+474,koristajatädi puhastab hoone põrandaid,koristajaonu puhastab hoone põrandaid,clean building floors,F,3,koristaja,False
+475,koristajatädi varustab tualettruume kulumaterjalidega,koristajaonu varustab tualettruume kulumaterjalidega,restock toilet facilities' supplies,F,3,koristaja,False
+476,koristajatädi kõrvaldab meditsiinilisi jäätmeid,koristajaonu kõrvaldab meditsiinilisi jäätmeid,dispose medical waste,F,3,koristaja,False
+477,koristajatädi sordib jäätmeid,koristajaonu sordib jäätmeid,sort waste,F,2,koristaja,False
+478,koristajatädi kasutab puhastusvahendeid,koristajaonu kasutab puhastusvahendeid,operate janitorial tools,F,2,koristaja,False
+479,koristajatädi pühib tolmu,koristajaonu pühib tolmu,remove dust,F,2,koristaja,False
+480,koristajatädi paigutab mööblit,koristajaonu paigutab mööblit,arrange furniture,F,2,koristaja,False
+481,koristajatädi puhastab pindu,koristajaonu puhastab pindu,clean surfaces,F,2,koristaja,False
+482,koristajatädi hooldab puhastustarbeid,koristajaonu hooldab puhastustarbeid,maintain cleaning equipment,F,2,koristaja,False
+483,koristajatädi koristab tavajäätmeid,koristajaonu koristab tavajäätmeid,manage routine waste,F,2,koristaja,False
+484,koristajatädi puhastab klaaspindu,koristajaonu puhastab klaaspindu,clean glass surfaces,F,2,koristaja,False
+485,koristajatädi teeb kahjuritõrjet,koristajaonu teeb kahjuritõrjet,perform pest control,F,2,koristaja,False
+486,koristajatädi desinfitseerib pindu,koristajaonu desinfitseerib pindu,disinfect surfaces,F,2,koristaja,False
+487,koristajatädi suhtleb jäätmekogujatega,koristajaonu suhtleb jäätmekogujatega,communicate with waste collectors,F,2,koristaja,False
+488,koristajatädi puhastab mööblit,koristajaonu puhastab mööblit,clean furniture,F,2,koristaja,False
+489,koristajatädi hooldab territooriumi,koristajaonu hooldab territooriumi,perform ground maintenance activities,F,2,koristaja,False
+490,koristajatädi koristab tualettruume,koristajaonu koristab tualettruume,clean toilet facilities,F,2,koristaja,False
+491,koristajatädi koristab lund,koristajaonu koristab lund,remove snow,F,2,koristaja,False
+492,koristajatädi teeb survepesu,koristajaonu teeb survepesu,carry out pressure washing activities,F,2,koristaja,False
+493,koristajatädi puhastab ruume,koristajaonu puhastab ruume,clean rooms,F,2,koristaja,False
+494,koristajatädi teeb umbrohutõrjet,koristajaonu teeb umbrohutõrjet,perform weed control operations,F,2,koristaja,False
+495,koristajatädi pihustab pestitsiide,koristajaonu pihustab pestitsiide,spray pesticides,F,2,koristaja,False
+496,koristajatädi puhastab puitpindu,koristajaonu puhastab puitpindu,clean wood surface,F,2,koristaja,False
+497,koristajatädi hävitab toidujäätmeid,koristajaonu hävitab toidujäätmeid,dispose food waste,F,2,koristaja,False
+498,koristajatädi hooldab muru,koristajaonu hooldab muru,provide lawn care,F,2,koristaja,False
+499,korraldajatädi juhib ürituse tehnilise varustuse paigaldamist,korraldajaonu juhib ürituse tehnilise varustuse paigaldamist,manage event structure installation,F,5,korraldaja,False
+500,korraldajatädi räägib ürituse teenuseosutajatega lepingutingimusi läbi,korraldajaonu räägib ürituse teenuseosutajatega lepingutingimusi läbi,negotiate contracts with event providers,F,5,korraldaja,False
+501,korraldajatädi korraldab majutust transporti ja tegevusi,korraldajaonu korraldab majutust transporti ja tegevusi,make logistical arrangements,F,5,korraldaja,False
+502,korraldajatädi suhtleb hotellide bussiettevõtete ja restoranidega,korraldajaonu suhtleb hotellide bussiettevõtete ja restoranidega,liaise with guest facilities providers,F,5,korraldaja,False
+503,korraldajatädi hangib ürituse jaoks lubasid,korraldajaonu hangib ürituse jaoks lubasid,obtain event permits,F,4,korraldaja,False
+504,korraldajatädi vaatab ürituste arveid üle,korraldajaonu vaatab ürituste arveid üle,review event bills,F,4,korraldaja,False
+505,korraldajatädi korraldab ürituste osalejate registreerimist,korraldajaonu korraldab ürituste osalejate registreerimist,organise event participants' registration,F,4,korraldaja,False
+506,korraldajatädi valib ürituse teenusepakkujaid,korraldajaonu valib ürituse teenusepakkujaid,select event providers,F,3,korraldaja,False
+507,korraldajatädi tagab kohapealset vastuvõtukorraldust,korraldajaonu tagab kohapealset vastuvõtukorraldust,organise on-site amenities,F,3,korraldaja,False
+508,korraldajatädi levitab ürituse reklaami,korraldajaonu levitab ürituse reklaami,solicit event publicity,F,3,korraldaja,False
+509,korraldajatädi suhtleb ürituste sponsoritega,korraldajaonu suhtleb ürituste sponsoritega,liaise with event sponsors,F,3,korraldaja,False
+510,korraldajatädi koostab sündmusepõhiseid menüüsid,korraldajaonu koostab sündmusepõhiseid menüüsid,create event-specific menus,F,3,korraldaja,False
+511,korraldajatädi suhtleb üritustel esinejatega,korraldajaonu suhtleb üritustel esinejatega,contact event speakers,F,3,korraldaja,False
+512,korraldajatädi reklaamib üritust,korraldajaonu reklaamib üritust,promote event,F,2,korraldaja,False
+513,korraldajatädi korraldab toitlustust,korraldajaonu korraldab toitlustust,coordinate catering,F,2,korraldaja,False
+514,korraldajatädi korraldab erisündmusi,korraldajaonu korraldab erisündmusi,arrange special events,F,2,korraldaja,False
+515,korraldajatädi prognoosib toitlustusvajadusi,korraldajaonu prognoosib toitlustusvajadusi,forecast catering services,F,2,korraldaja,False
+516,korraldajatädi teeb hinnapakkumisi,korraldajaonu teeb hinnapakkumisi,quote prices,F,2,korraldaja,False
+517,korraldajatädi suhtleb reklaamiagentuuridega,korraldajaonu suhtleb reklaamiagentuuridega,liaise with advertising agencies,F,2,korraldaja,False
+518,kulleritädi käitleb pakke ja saadetisi,kullerionu käitleb pakke ja saadetisi,handle delivered packages,M,4,kulleri,False
+519,kulleritädi toimetab mööblit kätte,kullerionu toimetab mööblit kätte,handle delivery of furniture goods,M,3,kulleri,False
+520,kulleritädi jälgib kaupade kättetoimetamist,kullerionu jälgib kaupade kättetoimetamist,monitor merchandise delivery,M,3,kulleri,False
+521,kunstitädi valib kunstiteoste loomiseks kunstilisi materjale,kunstionu valib kunstiteoste loomiseks kunstilisi materjale,select artistic materials to create artworks,F,5,kunsti,False
+522,kunstitädi kasutab kunstilisi materjale joonistamiseks,kunstionu kasutab kunstilisi materjale joonistamiseks,use artistic materials for drawing,F,4,kunsti,False
+523,kunstitädi töötab kunstiprojektide eelarveid välja,kunstionu töötab kunstiprojektide eelarveid välja,develop artistic project budgets,F,4,kunsti,False
+524,kunstitädi loob originaalseid joonistusi,kunstionu loob originaalseid joonistusi,create original drawings,F,3,kunsti,False
+525,kunstitädi koostab kunstilist portfooliot,kunstionu koostab kunstilist portfooliot,maintain an artistic portfolio,F,3,kunsti,False
+526,kunstitädi jälgib kunstivaldkonna arenguid,kunstionu jälgib kunstivaldkonna arenguid,monitor art scene developments,F,3,kunsti,False
+527,kunstitädi uurib kunstilisi võtteid,kunstionu uurib kunstilisi võtteid,study artistic techniques,F,3,kunsti,False
+528,kunstitädi kontekstualiseerib kunstilist tegevust,kunstionu kontekstualiseerib kunstilist tegevust,contextualise artistic work,F,3,kunsti,False
+529,kunstitädi loob originaalseid maale,kunstionu loob originaalseid maale,create original paintings,F,3,kunsti,False
+530,kunstitädi arutleb kunstiteose üle,kunstionu arutleb kunstiteose üle,discuss artwork,F,3,kunsti,False
+531,kunstitädi arendab kunstialaseid haridustegevusi,kunstionu arendab kunstialaseid haridustegevusi,develop artistic educational activities,F,3,kunsti,False
+532,kunstitädi esitab esialgset kunstiteost,kunstionu esitab esialgset kunstiteost,submit preliminary artwork,F,3,kunsti,False
+533,kunstitädi loob kunstiteost,kunstionu loob kunstiteost,create artwork,F,2,kunsti,False
+534,kunstitädi loob visandeid,kunstionu loob visandeid,create sketches,F,2,kunsti,False
+535,kunstitädi kasutab värvimistehnikaid,kunstionu kasutab värvimistehnikaid,use painting techniques,F,2,kunsti,False
+536,kunstitädi kasutab olustikumaalitehnikaid,kunstionu kasutab olustikumaalitehnikaid,use genre painting techniques,F,2,kunsti,False
+537,kunstitädi kavandab kunstiharidustegevust,kunstionu kavandab kunstiharidustegevust,plan art educational activities,F,2,kunsti,False
+538,kunstitädi värvib esinemispaiku,kunstionu värvib esinemispaiku,paint sets,F,2,kunsti,False
+539,kunstitädi uurib kunstiteoseid,kunstionu uurib kunstiteoseid,study artworks,F,2,kunsti,False
+540,laotädi abistab raskete laadungite liigutamisel,laoonu abistab raskete laadungite liigutamisel,assist in the movement of heavy loads,M,4,lao,False
+541,laotädi valmistab tellimusi saatmiseks ette,laoonu valmistab tellimusi saatmiseks ette,dispatch order processing,M,4,lao,False
+542,laotädi kontrollib kahjustatud toodete esinemist,laoonu kontrollib kahjustatud toodete esinemist,check for damaged items,M,4,lao,False
+543,laotädi koostab tellitud kaupadest saadetist,laoonu koostab tellitud kaupadest saadetist,pick orders for dispatching,M,4,lao,False
+544,laotädi tuvastab veoeelselt kahjustatud kaupu,laoonu tuvastab veoeelselt kahjustatud kaupu,identify damaged goods before shipment,M,4,lao,False
+545,laotädi võtab saadetiste pakendamisteavet vastu,laoonu võtab saadetiste pakendamisteavet vastu,receive shipment packaging information,M,4,lao,False
+546,laotädi kasutab lao registreerimissüsteemi,laoonu kasutab lao registreerimissüsteemi,operate warehouse record systems,M,3,lao,False
+547,laotädi puhastab tööstuslikke mahuteid,laoonu puhastab tööstuslikke mahuteid,clean industrial containers,M,3,lao,False
+548,laotädi võtab kaupu vastu,laoonu võtab kaupu vastu,receive goods,M,3,lao,False
+549,laotädi laeb kaupu konteineritesse,laoonu laeb kaupu konteineritesse,stack goods,M,3,lao,False
+550,laotädi haldab laovarude dokumentatsiooni,laoonu haldab laovarude dokumentatsiooni,handle paperwork related to warehouse stock,M,3,lao,False
+551,laotädi haldab saadetise dokumentatsiooni,laoonu haldab saadetise dokumentatsiooni,handle shipment paperwork,M,3,lao,False
+552,laotädi laeb saadetavaid tooteid,laoonu laeb saadetavaid tooteid,load products for dispatch,M,3,lao,False
+553,laotädi kinnitab kaupu turvaliselt,laoonu kinnitab kaupu turvaliselt,secure goods ,M,3,lao,False
+554,laotädi jälgib kaupade kvaliteedikontrolli,laoonu jälgib kaupade kvaliteedikontrolli,oversee stock quality control,M,3,lao,False
+555,laotädi kasutab laomärgistustööriistu,laoonu kasutab laomärgistustööriistu,use warehouse marking tools,M,2,lao,False
+556,laotädi järgib ladustamisjuhiseid,laoonu järgib ladustamisjuhiseid,follow stock control instructions,M,2,lao,False
+557,laotädi töötab kaaluseadmega,laoonu töötab kaaluseadmega,operate weighing machine,M,2,lao,False
+558,laotädi haldab laoarvestussüsteeme,laoonu haldab laoarvestussüsteeme,maintain stock control systems,M,2,lao,False
+559,laotädi käitab pakenditöötlusseadmeid,laoonu käitab pakenditöötlusseadmeid,operate package processing equipment,M,2,lao,False
+560,laotädi laeb kaubaaluseid,laoonu laeb kaubaaluseid,pallets loading,M,2,lao,False
+561,laotädi töötab pakendusseadmega,laoonu töötab pakendusseadmega,tend packaging machines,M,2,lao,False
+562,laotädi haldab pakendamismaterjali,laoonu haldab pakendamismaterjali,manage packaging material,M,2,lao,False
+563,laotädi jälgib pakendamistegevust,laoonu jälgib pakendamistegevust,monitor packaging operations,M,2,lao,False
+564,laotädi kasutab laoarvestussüsteemi,laoonu kasutab laoarvestussüsteemi,use a warehouse management system,M,2,lao,False
+565,laotädi komplekteerib kaupu,laoonu komplekteerib kaupu,assemble goods,M,2,lao,False
+566,laotädi kasutab vöötkoodiskannereid,laoonu kasutab vöötkoodiskannereid,use barcode scanning equipment,M,2,lao,False
+567,laotädi töötab logistikarühmas,laoonu töötab logistikarühmas,work in a logistics team,M,2,lao,False
+568,lastekaitsetädi toetab sotsiaalteenuste kasutajaid oskuste säilitamisel ja arendamisel,lastekaitseonu toetab sotsiaalteenuste kasutajaid oskuste säilitamisel ja arendamisel,support social service users in skills management,F,7,lastekaitse,False
+569,lastekaitsetädi motiveerib sotsiaalteenuste kasutajaid argitoimingutes iseseisvuse säilitamiseks,lastekaitseonu motiveerib sotsiaalteenuste kasutajaid argitoimingutes iseseisvuse säilitamiseks,encourage social service users to preserve their independence in their daily activities,F,6,lastekaitse,False
+570,lastekaitsetädi toetab trauma läbi elanud lapsi,lastekaitseonu toetab trauma läbi elanud lapsi,support traumatised children,F,5,lastekaitse,False
+571,lastekaitsetädi aitab laste ohutuse tagamisele kaasa,lastekaitseonu aitab laste ohutuse tagamisele kaasa,contribute to the safeguarding of children,F,5,lastekaitse,False
+572,lastekaitsetädi toetab sotsiaalteenuste ohustatud kasutajaid,lastekaitseonu toetab sotsiaalteenuste ohustatud kasutajaid,support harmed social service users,F,4,lastekaitse,False
+573,lastekaitsetädi toetab teenusekasutajaid oskuste arendamisel,lastekaitseonu toetab teenusekasutajaid oskuste arendamisel,support service users in developing skills,F,4,lastekaitse,False
+574,lastekaitsetädi edendab noorte turvalisuse kaitset,lastekaitseonu edendab noorte turvalisuse kaitset,promote the safeguarding of young people,F,4,lastekaitse,False
+575,lastekaitsetädi tegeleb laste probleemidega,lastekaitseonu tegeleb laste probleemidega,handle children's problems,F,3,lastekaitse,False
+576,lastekaitsetädi jälgib teenusekasutaja tervist,lastekaitseonu jälgib teenusekasutaja tervist,monitor service users' health,F,3,lastekaitse,False
+577,lastekaitsetädi suhtleb sotsiaalteenuste kasutajatega,lastekaitseonu suhtleb sotsiaalteenuste kasutajatega,communicate with social service users,F,3,lastekaitse,False
+578,lastekaitsetädi suhtleb noortega,lastekaitseonu suhtleb noortega,communicate with youth,F,2,lastekaitse,False
+579,laulutädi tuleb rambipalavikuga toime,lauluonu tuleb rambipalavikuga toime,cope with stage fright,M,3,laulu,False
+580,laulutädi esitab ansamblis muusikat,lauluonu esitab ansamblis muusikat,perform music in ensemble,M,3,laulu,False
+581,laulutädi esineb noorele publikule,lauluonu esineb noorele publikule,perform for young audiences,M,3,laulu,False
+582,laulutädi esitab solistina muusikat,lauluonu esitab solistina muusikat,perform music solo,M,3,laulu,False
+583,laulutädi osaleb stuudiosalvestustel,lauluonu osaleb stuudiosalvestustel,participate in music studio recordings,M,2,laulu,False
+584,laulutädi harjutab laulmist,lauluonu harjutab laulmist,practise singing,M,2,laulu,False
+585,laulutädi kujundab kontserti,lauluonu kujundab kontserti,design a music show,M,2,laulu,False
+586,laulutädi komponeerib muusikat,lauluonu komponeerib muusikat,compose music,M,2,laulu,False
+587,laulutädi töötab heliloojatega,lauluonu töötab heliloojatega,work with composers,M,2,laulu,False
+588,laulutädi loeb partituuri,lauluonu loeb partituuri,read musical score,M,2,laulu,False
+589,lehetädi tagab avaldatud artiklite ühtsust,leheonu tagab avaldatud artiklite ühtsust,ensure consistency of published articles,F,4,lehe,False
+590,lehetädi loob uudistevoo tagamiseks kontakte,leheonu loob uudistevoo tagamiseks kontakte,build contacts to maintain news flow,F,4,lehe,True
+591,lehetädi loob veebipõhiste uudiste sisu,leheonu loob veebipõhiste uudiste sisu,create online news content,F,4,lehe,True
+592,lehetädi osaleb toimetuse koosolekutel,leheonu osaleb toimetuse koosolekutel,participate in editorial meetings,F,3,lehe,False
+593,lehetädi otsib allikatest teavet,leheonu otsib allikatest teavet,consult information sources,F,3,lehe,True
+594,lehetädi järgib ajakirjanike eetikakoodeksit,leheonu järgib ajakirjanike eetikakoodeksit,follow ethical code of conduct of journalists,F,3,lehe,False
+595,lehetädi esitab üritustel küsimusi,leheonu esitab üritustel küsimusi,ask questions at events,F,3,lehe,False
+596,lehetädi kontrollib teabe õigsust,leheonu kontrollib teabe õigsust,check correctness of information,F,3,lehe,True
+597,lehetädi austab kultuurieelistusi,leheonu austab kultuurieelistusi,respect cultural preferences,F,2,lehe,False
+598,lehetädi kontrollib lugusid,leheonu kontrollib lugusid,check stories,F,2,lehe,False
+599,lehetädi jälgib uudiseid,leheonu jälgib uudiseid,follow the news,F,2,lehe,True
+600,lehetädi intervjueerib inimesi,leheonu intervjueerib inimesi,interview people,F,2,lehe,True
+601,lehetädi kirjutab pealkirju,leheonu kirjutab pealkirju,write headlines,F,2,lehe,True
+602,lehetädi kirjutab pildiallkirju,leheonu kirjutab pildiallkirju,write captions,F,2,lehe,False
+603,lennukitädi serveerib toitu ja jooke,lennukionu serveerib toitu ja jooke,provide food and beverages,F,4,lennuki,False
+604,lennukitädi valmistab lennuaruandeid ette,lennukionu valmistab lennuaruandeid ette,prepare flight reports,F,3,lennuki,False
+605,lennukitädi täidab lennueelseid ülesandeid,lennukionu täidab lennueelseid ülesandeid,carry out pre-flight duties,F,3,lennuki,False
+606,lennukitädi teeb korralisi lennutegevuskontrolle,lennukionu teeb korralisi lennutegevuskontrolle,perform routine flight operations checks,F,3,lennuki,False
+607,lennukitädi annab reisijatele teavet,lennukionu annab reisijatele teavet,provide information to passengers,F,3,lennuki,False
+608,lennukitädi on reisijatega sõbralik,lennukionu on reisijatega sõbralik,be friendly to passengers,F,3,lennuki,False
+609,lihatädi valmistab liha müügiks ette,lihaonu valmistab liha müügiks ette,prepare meat for sale,F,4,liha,False
+610,lihatädi valmistab spetsiaalseid lihatooteid ette,lihaonu valmistab spetsiaalseid lihatooteid ette,prepare specialised meat products,F,4,liha,False
+611,lihatädi töötleb põllumajandusloomade elundeid,lihaonu töötleb põllumajandusloomade elundeid,process livestock organs,F,3,liha,False
+612,lihatädi töötab lihatööstuse seadmetega,lihaonu töötab lihatööstuse seadmetega,tend meat processing production machines,F,3,liha,False
+613,lihatädi toodab lihapõhiseid tarretisvalmistisi,lihaonu toodab lihapõhiseid tarretisvalmistisi,produce meat-based jelly preparations,F,3,liha,False
+614,lihatädi töötab lihapakkimisseadmega,lihaonu töötab lihapakkimisseadmega,tend meat packaging machine,F,2,liha,False
+615,lihatädi käsitseb lõikamisnuge,lihaonu käsitseb lõikamisnuge,handle knives for cutting activities,F,2,liha,False
+616,lihatädi jälgib lihatooteid,lihaonu jälgib lihatooteid,trace meat products,F,2,liha,False
+617,lihatädi käsitseb lihatöötlusnugasid,lihaonu käsitseb lihatöötlusnugasid,handle knives for meat processing activities,F,2,liha,False
+618,lihatädi peenestab liha,lihaonu peenestab liha,grind meat,F,2,liha,False
+619,lihatädi tükeldab loomarümpi,lihaonu tükeldab loomarümpi,split animal carcasses,F,2,liha,False
+620,muuseumitädi annab kultuurinäituste kohta nõu,muuseumionu annab kultuurinäituste kohta nõu,advise on cultural exhibitions,F,4,muuseumi,False
+621,muuseumitädi korraldab näitust,muuseumionu korraldab näitust,organise an exhibition,F,2,muuseumi,False
+622,muuseumitädi suhtleb publikuga,muuseumionu suhtleb publikuga,interact with an audience,F,2,muuseumi,False
+623,muuseumitädi reklaamib kunstikogu,muuseumionu reklaamib kunstikogu,advertise an art collection,F,2,muuseumi,False
+624,muuseumitädi esitleb näitust,muuseumionu esitleb näitust,present exhibition,F,2,muuseumi,False
+625,muusikatädi tutvustab muusikainstrumentide käsitsemise põhivõtteid,muusikaonu tutvustab muusikainstrumentide käsitsemise põhivõtteid,demonstrate a technical foundation in musical instruments,F,4,muusika,False
+626,muusikatädi õpetab muusika põhimõtteid,muusikaonu õpetab muusika põhimõtteid,teach music principles,F,3,muusika,False
+627,muusikatädi mängib muusikainstrumente,muusikaonu mängib muusikainstrumente,play musical instruments,F,2,muusika,False
+628,muusikatädi improviseerib muusikat,muusikaonu improviseerib muusikat,improvise music,F,2,muusika,False
+629,muusikatädi hooldab muusikainstrumente,muusikaonu hooldab muusikainstrumente,maintain musical instruments,F,2,muusika,False
+630,muusikatädi orkestreerib muusikat,muusikaonu orkestreerib muusikat,orchestrate music,F,2,muusika,False
+631,müüjatädi vaatab müüdavaid kaupu üle,müüjaonu vaatab müüdavaid kaupu üle,examine merchandise,F,4,müüja,False
+632,müüjatädi jälgib klientide tellimuste liikumist,müüjaonu jälgib klientide tellimuste liikumist,follow up orders for customers,F,4,müüja,False
+633,müüjatädi nõustab kliente toodete valimisel,müüjaonu nõustab kliente toodete valimisel,provide customer guidance on product selection,F,4,müüja,False
+634,müüjatädi selgitab kliendi vajadusi välja,müüjaonu selgitab kliendi vajadusi välja,identify customer's needs,F,4,müüja,False
+635,müüjatädi korraldab klientidele toodete tellimist,müüjaonu korraldab klientidele toodete tellimist,Order products,F,4,müüja,False
+636,müüjatädi osutab klientidele müügijärgseid teenuseid,müüjaonu osutab klientidele müügijärgseid teenuseid,provide customer follow-up services,F,4,müüja,False
+637,müüjatädi korraldab klientide jaoks eripakendamist,müüjaonu korraldab klientide jaoks eripakendamist,carry out specialised packing for customers,F,4,müüja,False
+638,müüjatädi peab kaupade kättetoimetamise registrit,müüjaonu peab kaupade kättetoimetamise registrit,keep records of merchandise delivery,F,4,müüja,False
+639,müüjatädi hoiab klientidega suhteid,müüjaonu hoiab klientidega suhteid,maintain relationship with customers,F,3,müüja,False
+640,müüjatädi hoiab tarnijatega suhteid,müüjaonu hoiab tarnijatega suhteid,maintain relationship with suppliers,F,3,müüja,False
+641,müüjatädi jälgib varude taset,müüjaonu jälgib varude taset,monitor stock level,F,3,müüja,False
+642,müüjatädi korraldab toodete väljapanekut,müüjaonu korraldab toodete väljapanekut,organise product display,F,3,müüja,False
+643,müüjatädi võtab ostusoove vastu,müüjaonu võtab ostusoove vastu,carry out order intake,F,3,müüja,False
+644,müüjatädi tutvustab toote omadusi,müüjaonu tutvustab toote omadusi,demonstrate products' features,F,3,müüja,False
+645,müüjatädi planeerib müügijärgset tegevust,müüjaonu planeerib müügijärgset tegevust,plan aftersales arrangements,F,3,müüja,False
+646,müüjatädi hoiab kauplust puhtana,müüjaonu hoiab kauplust puhtana,maintain store cleanliness,F,3,müüja,False
+647,müüjatädi jälgib kaupade väljapanekuid,müüjaonu jälgib kaupade väljapanekuid,supervise merchandise displays,F,3,müüja,False
+648,müüjatädi väljastab ostutšekke,müüjaonu väljastab ostutšekke,prepare sales checks,F,2,müüja,False
+649,müüjatädi täidab riiuleid,müüjaonu täidab riiuleid,stock shelves,F,2,müüja,False
+650,müüjatädi tellib kaupa,müüjaonu tellib kaupa,order supplies,F,2,müüja,False
+651,müüjatädi tellib tooteid,müüjaonu tellib tooteid,arrange ordering of products for customers,F,2,müüja,False
+652,müüjatädi korraldab laoruume,müüjaonu korraldab laoruume,organise storage facilities,F,2,müüja,False
+653,pagaritädi koostab uusi retsepte,pagarionu koostab uusi retsepte,create new recipes,F,3,pagari,False
+654,pagaritädi valmistab küpsetisi,pagarionu valmistab küpsetisi,bake goods,F,2,pagari,False
+655,pagaritädi vormib tainast,pagarionu vormib tainast,mould doughs,F,2,pagari,False
+656,pagaritädi segab toiduaineid,pagarionu segab toiduaineid,operate mixing of food products,F,2,pagari,False
+657,pangatädi annab finantstoodete kohta teavet,pangaonu annab finantstoodete kohta teavet,provide financial product information,F,4,panga,False
+658,pangatädi esitab statistilisi finantsandmeid,pangaonu esitab statistilisi finantsandmeid,produce statistical financial records,F,3,panga,False
+659,pangatädi haldab juurdepääsu varahoidlale,pangaonu haldab juurdepääsu varahoidlale,manage vault access,F,3,panga,False
+660,pangatädi haldab panga varahoidlat,pangaonu haldab panga varahoidlat,manage bank vault,F,3,panga,False
+661,pangatädi tagab sularahavedude turvalisust,pangaonu tagab sularahavedude turvalisust,ensure safe transport of money,F,3,panga,False
+662,pangatädi jälgib finantstehinguid,pangaonu jälgib finantstehinguid,trace financial transactions,F,2,panga,False
+663,pangatädi kirjendab finantstehinguid,pangaonu kirjendab finantstehinguid,maintain records of financial transactions,F,2,panga,False
+664,pangatädi konverteerib valuutat,pangaonu konverteerib valuutat,convert currency,F,2,panga,False
+665,pangatädi töötleb makseid,pangaonu töötleb makseid,process payments,F,2,panga,True
+666,pangatädi käitleb finantstehinguid,pangaonu käitleb finantstehinguid,handle financial transactions,F,2,panga,False
+667,pangatädi peab finantsarvestust,pangaonu peab finantsarvestust,maintain financial records,F,2,panga,False
+668,pangatädi koostab finantsaruandeid,pangaonu koostab finantsaruandeid,prepare financial statements,F,2,panga,False
+669,pangatädi kasutab finantsinstrumente,pangaonu kasutab finantsinstrumente,operate financial instruments,F,2,panga,False
+670,pangatädi kasutab rahalugemismasinaid,pangaonu kasutab rahalugemismasinaid,operate money-processing machine,F,2,panga,False
+671,pangatädi koostab finantsaruannet,pangaonu koostab finantsaruannet,create a financial report,F,2,panga,False
+672,pesumajatädi kogub musta pesu kokku,pesumajaonu kogub musta pesu kokku,collect items for laundry service,F,4,pesumaja,False
+673,pesumajatädi käitleb laos olevat pesu,pesumajaonu käitleb laos olevat pesu,handle linen in stock,F,4,pesumaja,False
+674,pesumajatädi puhastab kodutekstiile,pesumajaonu puhastab kodutekstiile,clean household linens,F,2,pesumaja,False
+675,pesumajatädi peseb pesu,pesumajaonu peseb pesu,wash the laundry,F,2,pesumaja,False
+676,piletimüügitädi valdab kohalike ürituste kohta asjakohast teavet,piletimüügionu valdab kohalike ürituste kohta asjakohast teavet,keep up to date on local events,F,6,piletimüügi,False
+677,piletimüügitädi püsib jooksvate sündmustega kursis,piletimüügionu püsib jooksvate sündmustega kursis,stay up-to-date with current events,F,4,piletimüügi,False
+678,piletimüügitädi reklaamib kultuurisündmuste toimumiskohtade üritusi,piletimüügionu reklaamib kultuurisündmuste toimumiskohtade üritusi,promote cultural venue events,F,4,piletimüügi,False
+679,piletimüügitädi kontrollib ürituse sissepääsul pileteid,piletimüügionu kontrollib ürituse sissepääsul pileteid,check tickets at venue entry,F,4,piletimüügi,False
+680,piletimüügitädi jälgib piletimüüki,piletimüügionu jälgib piletimüüki,monitor ticketing,F,2,piletimüügi,False
+681,piletimüügitädi töötleb makseid,piletimüügionu töötleb makseid,process payments,F,2,piletimüügi,True
+682,postitädi korraldab posti kättetoimetamist,postionu korraldab posti kättetoimetamist,organise mail deliveries,M,3,posti,False
+683,postitädi toimetab kirjavahetust kätte,postionu toimetab kirjavahetust kätte,deliver correspondence,F,3,posti,False
+684,postitädi haldab posti,postionu haldab posti,handle mail,M,2,posti,False
+685,postitädi haldab postiinfosüsteeme,postionu haldab postiinfosüsteeme,operate mailing information systems,M,2,posti,False
+686,postkontoritädi haldab tähitud posti,postkontorionu haldab tähitud posti,handle registered mail,F,3,postkontori,False
+687,postkontoritädi müüb postitarbeid,postkontorionu müüb postitarbeid,sell post office products,F,2,postkontori,False
+688,postkontoritädi registreerib posti,postkontorionu registreerib posti,register mail,F,2,postkontori,False
+689,prügitädi tühjendab munitsipaalomandis olevaid jäätmekogumiskonteinereid,prügionu tühjendab munitsipaalomandis olevaid jäätmekogumiskonteinereid,empty community waste collection bins,M,4,prügi,False
+690,prügitädi käitleb kogutud jäätmeid,prügionu käitleb kogutud jäätmeid,manage waste rock,M,3,prügi,False
+691,prügitädi kõrvaldab ohtlikke jäätmeid,prügionu kõrvaldab ohtlikke jäätmeid,dispose of hazardous waste,M,3,prügi,False
+692,prügitädi kõrvaldab mitteohtlikke jäätmeid,prügionu kõrvaldab mitteohtlikke jäätmeid,dispose of non-hazardous waste,M,3,prügi,False
+693,prügitädi hooldab jäätmekogumisandmeid,prügionu hooldab jäätmekogumisandmeid,maintain waste collection records,M,2,prügi,False
+694,prügitädi juhib jäätmekogumissõidukit,prügionu juhib jäätmekogumissõidukit,drive waste collection vehicle,M,2,prügi,False
+695,prügitädi kogub tööstusjäätmeid,prügionu kogub tööstusjäätmeid,collect industrial waste,M,2,prügi,False
+696,prügitädi kehtestab jäätmekogumismarsruute,prügionu kehtestab jäätmekogumismarsruute,establish waste collection routes,M,2,prügi,False
+697,prügitädi hooldab jäätmekogumisseadmeid,prügionu hooldab jäätmekogumisseadmeid,maintain refuse collection equipment,M,2,prügi,False
+698,prügitädi kogub majapidamisjäätmeid,prügionu kogub majapidamisjäätmeid,collect domestic waste,M,2,prügi,False
+699,psühholoogitädi kasutab kliinilise hindamise tehnikaid,psühholoogionu kasutab kliinilise hindamise tehnikaid,use clinical assessment techniques,F,4,psühholoogi,False
+700,psühholoogitädi testib emotsionaalsete mustrite tuvastamiseks,psühholoogionu testib emotsionaalsete mustrite tuvastamiseks,test for emotional patterns,F,4,psühholoogi,False
+701,psühholoogitädi tuvastab vaimse tervise probleeme,psühholoogionu tuvastab vaimse tervise probleeme,identify mental health issues,F,4,psühholoogi,False
+702,psühholoogitädi toetab patsientide psühholoogilist arengut,psühholoogionu toetab patsientide psühholoogilist arengut,support patients to understand their conditions,F,4,psühholoogi,False
+703,psühholoogitädi rakendab süsteemset lähenemisviisi ravis,psühholoogionu rakendab süsteemset lähenemisviisi ravis,apply systemic therapy,F,4,psühholoogi,False
+704,psühholoogitädi määrab psühhoterapeutilist ravi,psühholoogionu määrab psühhoterapeutilist ravi,prescribe psychotherapeutic treatment,F,3,psühholoogi,False
+705,psühholoogitädi tegeleb psühholoogiliste käitumismustritega,psühholoogionu tegeleb psühholoogiliste käitumismustritega,work with patterns of psychological behaviour,F,3,psühholoogi,False
+706,psühholoogitädi teostab psühholoogilist hindamist,psühholoogionu teostab psühholoogilist hindamist,conduct psychological assessement,F,3,psühholoogi,False
+707,psühholoogitädi koostab kohtuekspertiisi eksperdiarvamust,psühholoogionu koostab kohtuekspertiisi eksperdiarvamust,conduct forensic evaluations,F,3,psühholoogi,False
+708,psühholoogitädi testib käitumismustrite tuvastamiseks,psühholoogionu testib käitumismustrite tuvastamiseks,test for behavioural patterns,F,3,psühholoogi,False
+709,psühholoogitädi rakendab psühholoogilisi eneseabimeetodeid,psühholoogionu rakendab psühholoogilisi eneseabimeetodeid,use psychoeducation,F,3,psühholoogi,False
+710,psühholoogitädi tõlgendab psühholoogilisi teste,psühholoogionu tõlgendab psühholoogilisi teste,interpret psychological tests,F,3,psühholoogi,False
+711,psühholoogitädi on isikutele mentoriks,psühholoogionu on isikutele mentoriks,mentor individuals,F,3,psühholoogi,False
+712,psühholoogitädi jälgib ravi tulemuslikkust,psühholoogionu jälgib ravi tulemuslikkust,monitor therapeutic progress,F,3,psühholoogi,False
+713,psühholoogitädi tegeleb väärkohtlemise mõjuga,psühholoogionu tegeleb väärkohtlemise mõjuga,work on the effects of abuse,F,3,psühholoogi,False
+714,psühholoogitädi edendab vaimset tervist,psühholoogionu edendab vaimset tervist,promote mental health,F,3,psühholoogi,False
+715,psühholoogitädi hindab last psühhiaatriliselt,psühholoogionu hindab last psühhiaatriliselt,carry out psychiatric assessment of child,F,3,psühholoogi,False
+716,psühholoogitädi nõustab kliente,psühholoogionu nõustab kliente,counsel clients,F,2,psühholoogi,False
+717,raadiotädi kogub saate teema kohta teavet,raadioonu kogub saate teema kohta teavet,gather information on theme of the show,F,5,raadio,True
+718,raadiotädi kasutab audio taasesituse tarkvara,raadioonu kasutab audio taasesituse tarkvara,use audio reproduction software,F,4,raadio,False
+719,raadiotädi järgib ajalisi märguandeid,raadioonu järgib ajalisi märguandeid,follow time cues,F,3,raadio,False
+720,raadiotädi otsib allikatest teavet,raadioonu otsib allikatest teavet,consult information sources,F,3,raadio,True
+721,raadiotädi jätab näiteteksti meelde,raadioonu jätab näiteteksti meelde,memorise lines,F,3,raadio,False
+722,raadiotädi loeb esialgseid tekste,raadioonu loeb esialgseid tekste,read pre-drafted texts,F,3,raadio,False
+723,raadiotädi kontrollib teabe õigsust,raadioonu kontrollib teabe õigsust,check correctness of information,F,3,raadio,True
+724,raadiotädi valmistab saateid ette,raadioonu valmistab saateid ette,prepare broadcasts,F,3,raadio,True
+725,raadiotädi teeb humoorikaid etteasteid,raadioonu teeb humoorikaid etteasteid,practice humour,F,3,raadio,False
+726,raadiotädi harjutab rolli,raadioonu harjutab rolli,rehearse role,F,2,raadio,False
+727,raadiotädi jälgib uudiseid,raadioonu jälgib uudiseid,follow the news,F,2,raadio,True
+728,raadiotädi intervjueerib inimesi,raadioonu intervjueerib inimesi,interview people,F,2,raadio,True
+729,raadiotädi modereerib debatti,raadioonu modereerib debatti,moderate a debate,F,2,raadio,True
+730,raadiotädi koostab esitusloendit,raadioonu koostab esitusloendit,compose playlist,F,2,raadio,False
+731,raadiotädi arendab programmiideid,raadioonu arendab programmiideid,develop program ideas,F,2,raadio,False
+732,raadiotädi valib muusikat,raadioonu valib muusikat,select music,F,2,raadio,False
+733,raadiotädi töötab hääleseadjaga,raadioonu töötab hääleseadjaga,work with a voice coach,F,2,raadio,False
+734,raamatukogutädi analüüsib raamatukogu kasutajate päringuid,raamatukoguonu analüüsib raamatukogu kasutajate päringuid,analyse library users' queries,F,4,raamatukogu,False
+735,raamatukogutädi annab raamatukogu kohta teavet,raamatukoguonu annab raamatukogu kohta teavet,provide library information,F,4,raamatukogu,False
+736,raamatukogutädi abistab õppureid raamatukogu kasutamisel,raamatukoguonu abistab õppureid raamatukogu kasutamisel,assist students with library operations,F,4,raamatukogu,False
+737,raamatukogutädi suhtleb raamatukogus töötavate kolleegidega,raamatukoguonu suhtleb raamatukogus töötavate kolleegidega,confer with library colleagues,F,4,raamatukogu,False
+738,raamatukogutädi abistab raamatukogu sisseseade kavandamisel,raamatukoguonu abistab raamatukogu sisseseade kavandamisel,assist in library facility planning,F,4,raamatukogu,False
+739,raamatukogutädi valib uusi hangitavaid raamatukoguesemeid,raamatukoguonu valib uusi hangitavaid raamatukoguesemeid,select new library items to acquire,F,4,raamatukogu,False
+740,raamatukogutädi haldab digitaalseid raamatukogusid,raamatukoguonu haldab digitaalseid raamatukogusid,manage digital libraries,F,3,raamatukogu,False
+741,raamatukogutädi räägib raamatukogulepinguid läbi,raamatukoguonu räägib raamatukogulepinguid läbi,negotiate library contracts,F,3,raamatukogu,False
+742,raamatukogutädi arendab teabeprobleemide lahendusi,raamatukoguonu arendab teabeprobleemide lahendusi,develop solutions to information issues,F,3,raamatukogu,False
+743,raamatukogutädi korraldab raamatukogudevahelist laenutamist,raamatukoguonu korraldab raamatukogudevahelist laenutamist,arrange interlibrary loans,F,3,raamatukogu,False
+744,raamatukogutädi koostab raamatukogu loendeid,raamatukoguonu koostab raamatukogu loendeid,compile library lists,F,3,raamatukogu,False
+745,raamatukogutädi haldab digitaalseid arhiive,raamatukoguonu haldab digitaalseid arhiive,manage digital archives,F,3,raamatukogu,False
+746,raamatukogutädi klassifitseerib raamatukogumaterjale,raamatukoguonu klassifitseerib raamatukogumaterjale,classify library materials,F,2,raamatukogu,False
+747,raamatukogutädi hooldab raamatukoguvarustust,raamatukoguonu hooldab raamatukoguvarustust,maintain library equipment,F,2,raamatukogu,False
+748,rahatädi pakub finantsteenuseid,rahaonu pakub finantsteenuseid,offer financial services,F,2,raha,False
+749,rahatädi suhtleb pangandusspetsialistidega,rahaonu suhtleb pangandusspetsialistidega,communicate with banking professionals,F,2,raha,False
+750,rahatädi nõustab finantsarvutusi,rahaonu nõustab finantsarvutusi,provide support in financial calculation,F,2,raha,False
+751,rahatädi kogub finantsinfot,rahaonu kogub finantsinfot,obtain financial information,F,2,raha,False
+752,rahatädi nõustab finantsküsimustes,rahaonu nõustab finantsküsimustes,advise on financial matters,F,2,raha,False
+753,registratuuritädi kogub tervishoiuteenuse kasutaja tervise kohta üldandmeid,registratuurionu kogub tervishoiuteenuse kasutaja tervise kohta üldandmeid,collect healthcare user's general data,F,6,registratuuri,False
+754,registratuuritädi tagab tervishoiuteenuse kasutaja andmete konfidentsiaalsust,registratuurionu tagab tervishoiuteenuse kasutaja andmete konfidentsiaalsust,maintain healthcare user data confidentiality,F,5,registratuuri,False
+755,registratuuritädi kasutab elektrooniliste terviseandmete halduse süsteemi,registratuurionu kasutab elektrooniliste terviseandmete halduse süsteemi,use electronic health records management system,F,5,registratuuri,False
+756,registratuuritädi haldab tervishoiuteenuse kasutaja andmeid,registratuurionu haldab tervishoiuteenuse kasutaja andmeid,manage healthcare users' data,F,4,registratuuri,False
+757,registratuuritädi vastab patsiendi küsimustele,registratuurionu vastab patsiendi küsimustele,answer patients' questions,F,3,registratuuri,False
+758,registratuuritädi tuvastab patsientide terviseandmed,registratuurionu tuvastab patsientide terviseandmed,identify patients' medical records,F,3,registratuuri,False
+759,registratuuritädi kontrollib klientide tausta,registratuurionu kontrollib klientide tausta,screen clients,F,3,registratuuri,True
+760,registratuuritädi aitab erivajadustega patsienti,registratuurionu aitab erivajadustega patsienti,assist patients with special needs,F,3,registratuuri,False
+761,registratuuritädi käsitleb ravikindlustuse kahjunõudeid,registratuurionu käsitleb ravikindlustuse kahjunõudeid,process medical insurance claims,F,3,registratuuri,False
+762,registratuuritädi haldab vastuvõtuala,registratuurionu haldab vastuvõtuala,maintain reception area,F,2,registratuuri,True
+763,registratuuritädi haldab vastuvõtuaegu,registratuurionu haldab vastuvõtuaegu,administer appointments,F,2,registratuuri,True
+764,rekkatädi jälgib mahalaadimist,rekkaonu jälgib mahalaadimist,supervise unloading of cargo,M,2,rekka,False
+765,rekkatädi jälgib pealelaadimist,rekkaonu jälgib pealelaadimist,supervise loading of cargo,M,2,rekka,False
+766,rekkatädi harjutab äkkpidurdamist,rekkaonu harjutab äkkpidurdamist,practice emergency stops,M,2,rekka,False
+767,rekkatädi töötab GPS-süsteemidega,rekkaonu töötab GPS-süsteemidega,operate GPS systems,M,2,rekka,False
+768,rekkatädi manööverdab raskeveokeid,rekkaonu manööverdab raskeveokeid,manoeuvre heavy trucks,M,2,rekka,False
+769,reklaamitädi kasutab kliendisuhete haldamise tarkvara,reklaamionu kasutab kliendisuhete haldamise tarkvara,use customer relationship management software,M,4,reklaami,False
+770,reklaamitädi nõustab kaupade omaduste küsimuses,reklaamionu nõustab kaupade omaduste küsimuses,advise on merchandise features,M,4,reklaami,False
+771,reklaamitädi korraldab klientide järelseiret,reklaamionu korraldab klientide järelseiret,implement customer follow-up,M,3,reklaami,False
+772,reklaamitädi hangib uusi kliente,reklaamionu hangib uusi kliente,prospect new customers,M,3,reklaami,False
+773,reklaamitädi registreerib klientide isikuandmeid,reklaamionu registreerib klientide isikuandmeid,record customers' personal data,M,3,reklaami,False
+774,reklaamitädi võtab klientidega ühendust,reklaamionu võtab klientidega ühendust,contact customers,M,3,reklaami,False
+775,reklaamitädi jälgib meediaettevõtete uuringutulemusi,reklaamionu jälgib meediaettevõtete uuringutulemusi,monitor media industry research figures,M,3,reklaami,False
+776,reklaamitädi korraldab turundust,reklaamionu korraldab turundust,apply social media marketing,M,3,reklaami,False
+777,reklaamitädi on sotsiaalmeediaga kursis,reklaamionu on sotsiaalmeediaga kursis,stay up to date with social media,M,3,reklaami,False
+778,reklaamitädi analüüsib tarbijate ostusuundumusi,reklaamionu analüüsib tarbijate ostusuundumusi,analyse consumer buying trends,M,3,reklaami,False
+779,reklaamitädi jälgib müügijärgseid andmeid,reklaamionu jälgib müügijärgseid andmeid,monitor after sales records,M,3,reklaami,False
+780,reklaamitädi analüüsib müüki,reklaamionu analüüsib müüki,carry out sales analysis,M,2,reklaami,False
+781,reklaamitädi selgitab müügimotivatsiooni,reklaamionu selgitab müügimotivatsiooni,demonstrate motivation for sales,M,2,reklaami,False
+782,reklaamitädi koostab müügiaruandeid,reklaamionu koostab müügiaruandeid,produce sales reports,M,2,reklaami,False
+783,reklaamitädi rakendab müügistrateegiaid,reklaamionu rakendab müügistrateegiaid,implement sales strategies,M,2,reklaami,False
+784,reklaamitädi dokumenteerib müüki,reklaamionu dokumenteerib müüki,keep records on sales,M,2,reklaami,False
+785,reklaamitädi rakendab turundusstrateegiaid,reklaamionu rakendab turundusstrateegiaid,implement marketing strategies,M,2,reklaami,False
+786,reklaamitädi esitab müügikõnet,reklaamionu esitab müügikõnet,deliver a sales pitch,M,2,reklaami,False
+787,reklaamitädi töötab reklaamispetsialistidega,reklaamionu töötab reklaamispetsialistidega,work with advertising professionals,M,2,reklaami,False
+788,reklaamitädi arendab reklaamivahendeid,reklaamionu arendab reklaamivahendeid,develop promotional tools,M,2,reklaami,False
+789,reklaamitädi kaardistab meediakanaleid,reklaamionu kaardistab meediakanaleid,perform media outlets research,M,2,reklaami,False
+790,reklaamitädi tutvustab reklaaminäidiseid,reklaamionu tutvustab reklaaminäidiseid,provide advertisement samples,M,2,reklaami,False
+791,reklaamitädi arendab meediastrateegiat,reklaamionu arendab meediastrateegiat,develop media strategy,M,2,reklaami,False
+792,sekretäritädi koostab õiguslikele nõuetele vastavat dokumentatsiooni,sekretärionu koostab õiguslikele nõuetele vastavat dokumentatsiooni,develop documentation in accordance with legal requirements,F,5,sekretäri,False
+793,sekretäritädi jälgib töötajate töölt puudumisi,sekretärionu jälgib töötajate töölt puudumisi,monitor staff absences,F,4,sekretäri,False
+794,sekretäritädi säilitab ülesannete kohta andmeid,sekretärionu säilitab ülesannete kohta andmeid,keep task records,F,4,sekretäri,False
+795,sekretäritädi korraldab kontori igapäevatööd,sekretärionu korraldab kontori igapäevatööd,perform office routine activities,F,3,sekretäri,False
+796,sekretäritädi edastab inimestele teateid,sekretärionu edastab inimestele teateid,disseminate messages to people,F,3,sekretäri,False
+797,sekretäritädi haldab digitaalseid dokumente,sekretärionu haldab digitaalseid dokumente,manage digital documents,F,3,sekretäri,False
+798,sekretäritädi koostab ettevõtte e-kirju,sekretärionu koostab ettevõtte e-kirju,draft corporate emails,F,3,sekretäri,False
+799,sekretäritädi valmistab esitlusmaterjale ette,sekretärionu valmistab esitlusmaterjale ette,prepare presentation material,F,3,sekretäri,False
+800,sekretäritädi haldab kirjatarvete varusid,sekretärionu haldab kirjatarvete varusid,manage needs for stationery items,F,3,sekretäri,False
+801,sekretäritädi koostab kohtumiste aruandeid,sekretärionu koostab kohtumiste aruandeid,write meeting reports,F,3,sekretäri,False
+802,sekretäritädi kasutab personaalset organiseerimistarkvara,sekretärionu kasutab personaalset organiseerimistarkvara,use personal organization software,F,3,sekretäri,False
+803,sekretäritädi kasutab arvutustabelitarkvara,sekretärionu kasutab arvutustabelitarkvara,use spreadsheets software,F,2,sekretäri,False
+804,sekretäritädi levitab siseteatisi,sekretärionu levitab siseteatisi,disseminate internal communications,F,2,sekretäri,False
+805,sekretäritädi hooldab sisekommunikatsioonisüsteeme,sekretärionu hooldab sisekommunikatsioonisüsteeme,maintain internal communication systems,F,2,sekretäri,False
+806,sekretäritädi registreerib dokumente,sekretärionu registreerib dokumente,file documents,F,2,sekretäri,False
+807,sekretäritädi haldab äridokumente,sekretärionu haldab äridokumente,organise business documents,F,2,sekretäri,False
+808,sekretäritädi korraldab töökohtumisi,sekretärionu korraldab töökohtumisi,manage personnel agenda,F,2,sekretäri,False
+809,sekretäritädi kasutab tekstitöötlustarkvara,sekretärionu kasutab tekstitöötlustarkvara,use word processing software,F,2,sekretäri,False
+810,sekretäritädi täidab blankette,sekretärionu täidab blankette,fill out forms,F,2,sekretäri,False
+811,sekretäritädi haldab vastuvõtuaegu,sekretärionu haldab vastuvõtuaegu,administer appointments,F,2,sekretäri,True
+812,sekretäritädi korraldab töökohtumisi,sekretärionu korraldab töökohtumisi,organise facilities for office personnel,F,2,sekretäri,False
+813,sekretäritädi tellib trükitooteid,sekretärionu tellib trükitooteid,place orders for printed paper goods,F,2,sekretäri,False
+814,sekretäritädi kasutab kontorisüsteeme,sekretärionu kasutab kontorisüsteeme,use office systems,F,2,sekretäri,False
+815,sotsiaaltädi suunab sotsiaalteenuste kasutajaid teiste teenusepakkujate juurde edasi,sotsiaalonu suunab sotsiaalteenuste kasutajaid teiste teenusepakkujate juurde edasi,refer social service users,F,7,sotsiaal,False
+816,sotsiaaltädi suurendab kohaliku kogukonna jaoks olulistes valdkondades teadlikkust,sotsiaalonu suurendab kohaliku kogukonna jaoks olulistes valdkondades teadlikkust,raise awareness on local community's priorities,F,7,sotsiaal,False
+817,sotsiaaltädi teavitab sõltuvusainete ja alkoholi kuritarvitamisega seotud ohtudest,sotsiaalonu teavitab sõltuvusainete ja alkoholi kuritarvitamisega seotud ohtudest,inform on the risks of substance and alcohol abuse,F,7,sotsiaal,False
+818,sotsiaaltädi kaasab teenusekasutajaid ja hooldajaid hoolduse kavandamisesse,sotsiaalonu kaasab teenusekasutajaid ja hooldajaid hoolduse kavandamisesse,involve service users and carers in care planning,F,6,sotsiaal,False
+819,sotsiaaltädi peab teenusekasutajale osutatud teenuse kohta dokumentatsiooni,sotsiaalonu peab teenusekasutajale osutatud teenuse kohta dokumentatsiooni,maintain records of work with service users,F,6,sotsiaal,False
+820,"sotsiaaltädi võimestab üksikisikuid, peresid ja ühiskonnarühmi","sotsiaalonu võimestab üksikisikuid, peresid ja ühiskonnarühmi","empower individuals, families and groups",F,6,sotsiaal,False
+821,sotsiaaltädi toetab sotsiaalteenuste kasutajaid nende rahaasjade ajamises,sotsiaalonu toetab sotsiaalteenuste kasutajaid nende rahaasjade ajamises,support social service users to manage their financial affairs,F,6,sotsiaal,False
+822,sotsiaaltädi osaleb üksikisiku kaitses väärkohtlemise vastu,sotsiaalonu osaleb üksikisiku kaitses väärkohtlemise vastu,contribute to protecting individuals from harm,F,5,sotsiaal,False
+823,sotsiaaltädi koostab sotsiaalse arengu kohta aruannet,sotsiaalonu koostab sotsiaalse arengu kohta aruannet,report on social development,F,5,sotsiaal,False
+824,sotsiaaltädi rajab sotsiaalteenuste kasutajaga abistavat koostöösuhet,sotsiaalonu rajab sotsiaalteenuste kasutajaga abistavat koostöösuhet,build helping relationship with social service users,F,5,sotsiaal,False
+825,sotsiaaltädi toetab sotsiaalteenuste kasutajaid elu lõpul,sotsiaalonu toetab sotsiaalteenuste kasutajaid elu lõpul,support social service users at the end of life,F,5,sotsiaal,False
+826,sotsiaaltädi hindab kliendi narko- ja alkoholisõltuvust,sotsiaalonu hindab kliendi narko- ja alkoholisõltuvust,assess clients' drug and alcohol addictions,F,5,sotsiaal,False
+827,sotsiaaltädi tegeleb kurjategijatega nende käitumise parandamiseks,sotsiaalonu tegeleb kurjategijatega nende käitumise parandamiseks,engage with offenders,F,5,sotsiaal,False
+828,sotsiaaltädi nõustab vaimse tervisega seotud küsimustes,sotsiaalonu nõustab vaimse tervisega seotud küsimustes,advise on mental health,F,5,sotsiaal,False
+829,sotsiaaltädi toetab sotsiaalteenuste kasutajate kodus elamist,sotsiaalonu toetab sotsiaalteenuste kasutajate kodus elamist,support social service users to live at home,F,5,sotsiaal,False
+830,sotsiaaltädi hindab eakate enesega toimetuleku võimekust,sotsiaalonu hindab eakate enesega toimetuleku võimekust,evaluate older adults' ability to take care of themselves,F,5,sotsiaal,False
+831,sotsiaaltädi korraldab patsientidele tervishoiu koduteenuste osutamist,sotsiaalonu korraldab patsientidele tervishoiu koduteenuste osutamist,arrange in-home services for patients,F,5,sotsiaal,False
+832,sotsiaaltädi teeb tervishoiuteenuse kasutajate sotsiaalvõrgustikuga koostööd,sotsiaalonu teeb tervishoiuteenuse kasutajate sotsiaalvõrgustikuga koostööd,work with healthcare users' social network,F,5,sotsiaal,False
+833,sotsiaaltädi toetab üksikisikuid füüsilise puudega kohanemisel,sotsiaalonu toetab üksikisikuid füüsilise puudega kohanemisel,support individuals to adjust to physical disability,F,5,sotsiaal,False
+834,sotsiaaltädi rakendab sotsiaalteenuste kasutajatega tegelemisel rühmategevust,sotsiaalonu rakendab sotsiaalteenuste kasutajatega tegelemisel rühmategevust,work with social service users in a group,F,5,sotsiaal,False
+835,sotsiaaltädi toetab rändaja vastuvõtvas riigis integreerumist,sotsiaalonu toetab rändaja vastuvõtvas riigis integreerumist,support migrants to integrate in the receiving country,F,5,sotsiaal,False
+836,sotsiaaltädi osutab kogukonna arengut soodustavaid teenuseid,sotsiaalonu osutab kogukonna arengut soodustavaid teenuseid,provide community development services,F,5,sotsiaal,False
+837,sotsiaaltädi lahendab akadeemilist edasijõudmist takistavaid probleeme,sotsiaalonu lahendab akadeemilist edasijõudmist takistavaid probleeme,tackle issues that block academic progress,F,5,sotsiaal,False
+838,sotsiaaltädi kaitseb sotsiaalteenuse haavatavaid kasutajaid,sotsiaalonu kaitseb sotsiaalteenuse haavatavaid kasutajaid,protect vulnerable social service users,F,4,sotsiaal,False
+839,sotsiaaltädi osutab sotsiaalteenuseid mitmesugustes kultuurikogukondades,sotsiaalonu osutab sotsiaalteenuseid mitmesugustes kultuurikogukondades,deliver social services in diverse cultural communities,F,4,sotsiaal,False
+840,sotsiaaltädi seisab sotsiaalteenuste kasutajate eest,sotsiaalonu seisab sotsiaalteenuste kasutajate eest,advocate for social service users,F,4,sotsiaal,False
+841,sotsiaaltädi selgitab sotsiaalteenuse kasutajale õigusakte,sotsiaalonu selgitab sotsiaalteenuse kasutajale õigusakte,make legislation transparent for users of social services,F,4,sotsiaal,False
+842,sotsiaaltädi hindab sotsiaalteenuste kasutajate elusituatsiooni,sotsiaalonu hindab sotsiaalteenuste kasutajate elusituatsiooni,assess social service users' situation,F,4,sotsiaal,False
+843,sotsiaaltädi vaatab sotsiaalteenuste kava läbi,sotsiaalonu vaatab sotsiaalteenuste kava läbi,review social service plan,F,4,sotsiaal,False
+844,sotsiaaltädi rakendab tänaval sekkumist sotsiaaltöös,sotsiaalonu rakendab tänaval sekkumist sotsiaaltöös,perform street interventions in social work,F,4,sotsiaal,False
+845,sotsiaaltädi annab kooliteenuste kohta teavet,sotsiaalonu annab kooliteenuste kohta teavet,provide information on school services,F,4,sotsiaal,False
+846,sotsiaaltädi toetab inimõiguste rikkumiste ohvreid,sotsiaalonu toetab inimõiguste rikkumiste ohvreid,support victims of human rights violations,F,4,sotsiaal,False
+847,sotsiaaltädi töötab avalikkuse kaasamise jaoks,sotsiaalonu töötab avalikkuse kaasamise jaoks,work for public inclusion,F,4,sotsiaal,False
+848,sotsiaaltädi suhtleb nooruki heaolu teemal,sotsiaalonu suhtleb nooruki heaolu teemal,communicate about youth's well-being,F,4,sotsiaal,False
+849,sotsiaaltädi edendab kohaliku kogukonna noorsootööd,sotsiaalonu edendab kohaliku kogukonna noorsootööd,promote youth work in the local community,F,4,sotsiaal,False
+850,sotsiaaltädi toetab noorte positiivset ellusuhtumist,sotsiaalonu toetab noorte positiivset ellusuhtumist,support the positiveness of youths,F,4,sotsiaal,False
+851,sotsiaaltädi aitab klienti leinaga toimetulekul,sotsiaalonu aitab klienti leinaga toimetulekul,help clients cope with grief,F,4,sotsiaal,False
+852,sotsiaaltädi arutleb teadusuuringute ettepanekute üle,sotsiaalonu arutleb teadusuuringute ettepanekute üle,discuss research proposals,F,4,sotsiaal,False
+853,sotsiaaltädi edendab humanitaarabi programmide rakendamist,sotsiaalonu edendab humanitaarabi programmide rakendamist,handle humanitarian response programs,F,4,sotsiaal,False
+854,sotsiaaltädi nõustab sotsiaalse ettevõtluse küsimustes,sotsiaalonu nõustab sotsiaalse ettevõtluse küsimustes,advise on social enterprise,F,4,sotsiaal,False
+855,sotsiaaltädi nõustab konfliktide lahendamise küsimuses,sotsiaalonu nõustab konfliktide lahendamise küsimuses,advise on conflict management,F,4,sotsiaal,False
+856,sotsiaaltädi abistab erivajadusega lapsi haridusasutustes,sotsiaalonu abistab erivajadusega lapsi haridusasutustes,assist children with special needs in education settings,F,4,sotsiaal,False
+857,sotsiaaltädi teeb oskuste puudust kindlaks,sotsiaalonu teeb oskuste puudust kindlaks,identify skills gaps,F,4,sotsiaal,False
+858,sotsiaaltädi nõustab terminaalse hoolduse küsimustes,sotsiaalonu nõustab terminaalse hoolduse küsimustes,counsel on end-of-life care,F,4,sotsiaal,False
+859,sotsiaaltädi nõustab sotsiaalküsimustes telefoni teel,sotsiaalonu nõustab sotsiaalküsimustes telefoni teel,provide social guidance over the phone,F,4,sotsiaal,False
+860,sotsiaaltädi korraldab kogukonnasisest koostööd,sotsiaalonu korraldab kogukonnasisest koostööd,work within communities,F,3,sotsiaal,False
+861,sotsiaaltädi võimestab sotsiaalteenuste kasutajaid,sotsiaalonu võimestab sotsiaalteenuste kasutajaid,empower social service users,F,3,sotsiaal,False
+862,sotsiaaltädi toetab sotsiaalteenuste kasutajaid,sotsiaalonu toetab sotsiaalteenuste kasutajaid,provide support to social services users,F,3,sotsiaal,False
+863,sotsiaaltädi kavandab sotsiaalteenuste osutamist,sotsiaalonu kavandab sotsiaalteenuste osutamist,plan social service process,F,3,sotsiaal,False
+864,sotsiaaltädi edendab sotsiaalseid muutusi,sotsiaalonu edendab sotsiaalseid muutusi,promote social change,F,3,sotsiaal,False
+865,sotsiaaltädi ennetab sotsiaalseid probleeme,sotsiaalonu ennetab sotsiaalseid probleeme,prevent social problems,F,3,sotsiaal,False
+866,sotsiaaltädi lahendab sotsiaalkriisi olukordi,sotsiaalonu lahendab sotsiaalkriisi olukordi,manage social crisis,F,3,sotsiaal,False
+867,sotsiaaltädi osaleb akadeemilises komisjonis,sotsiaalonu osaleb akadeemilises komisjonis,serve on academic committee,F,3,sotsiaal,False
+868,sotsiaaltädi käsitleb rahvatervise teemasid,sotsiaalonu käsitleb rahvatervise teemasid,address public health issues,F,3,sotsiaal,False
+869,sotsiaaltädi hindab noorte arengut,sotsiaalonu hindab noorte arengut,assess the development of youth,F,3,sotsiaal,False
+870,sotsiaaltädi ehitab kogukonnasuhteid üles,sotsiaalonu ehitab kogukonnasuhteid üles,build community relations,F,3,sotsiaal,False
+871,sotsiaaltädi seab koostöösuhteid sisse,sotsiaalonu seab koostöösuhteid sisse,establish collaborative relations,F,3,sotsiaal,False
+872,sotsiaaltädi annab kohtuistungil ütlusi,sotsiaalonu annab kohtuistungil ütlusi,provide testimony in court hearings,F,3,sotsiaal,False
+873,sotsiaaltädi nõustab sisserände alal,sotsiaalonu nõustab sisserände alal,provide immigration advice,F,3,sotsiaal,False
+874,sotsiaaltädi abistab kriisiolukorras peresid,sotsiaalonu abistab kriisiolukorras peresid,assist families in crisis situations,F,3,sotsiaal,False
+875,sotsiaaltädi toetab alaealisi ohvreid,sotsiaalonu toetab alaealisi ohvreid,support juvenile victims,F,3,sotsiaal,False
+876,sotsiaaltädi nõustab koolituskursuste osas,sotsiaalonu nõustab koolituskursuste osas,advise on training courses,F,3,sotsiaal,False
+877,sotsiaaltädi hindab õigusrikkujate riskikäitumist,sotsiaalonu hindab õigusrikkujate riskikäitumist,assess offenders' risk behaviour,F,3,sotsiaal,False
+878,sotsiaaltädi toetab laste heaolu,sotsiaalonu toetab laste heaolu,support children's wellbeing,F,3,sotsiaal,False
+879,sotsiaaltädi viib sotsiaaltööuuringuid läbi,sotsiaalonu viib sotsiaaltööuuringuid läbi,carry out social work research,F,3,sotsiaal,False
+880,sotsiaaltädi töötab sotsiaalkindlustusprogramme välja,sotsiaalonu töötab sotsiaalkindlustusprogramme välja,develop social security programmes,F,3,sotsiaal,False
+881,sotsiaaltädi nõustab seoses sotsiaalkindlustushüvitistega,sotsiaalonu nõustab seoses sotsiaalkindlustushüvitistega,advise on social security benefits,F,3,sotsiaal,False
+882,sotsiaaltädi nõustab sotsiaalküsimustes,sotsiaalonu nõustab sotsiaalküsimustes,provide social counselling,F,2,sotsiaal,False
+883,sotsiaaltädi loob sotsiaaltööpakette,sotsiaalonu loob sotsiaaltööpakette,organise social work packages,F,2,sotsiaal,False
+884,sotsiaaltädi osutab koduhooldusteenust,sotsiaalonu osutab koduhooldusteenust,provide domestic care,F,2,sotsiaal,False
+885,sotsiaaltädi kavandab noorsootegevusi,sotsiaalonu kavandab noorsootegevusi,plan youth activities,F,2,sotsiaal,False
+886,sotsiaaltädi edendab sotsiaalkindlustusprogramme,sotsiaalonu edendab sotsiaalkindlustusprogramme,promote social security programmes,F,2,sotsiaal,False
+887,sotsiaaltädi juhib sotsiaaltööüksust,sotsiaalonu juhib sotsiaaltööüksust,manage a social work unit,F,2,sotsiaal,False
+888,sotsiaaltädi juhib vabatahtlikke,sotsiaalonu juhib vabatahtlikke,manage volunteers,F,2,sotsiaal,False
+889,sotsiaaltädi osutab ohvriabi,sotsiaalonu osutab ohvriabi,provide victim assistance,F,2,sotsiaal,False
+890,sotsiaaltädi osaleb teaduskollokviumides,sotsiaalonu osaleb teaduskollokviumides,participate in scientific colloquia,F,2,sotsiaal,False
+891,sotsiaaltädi abistab kodutuid,sotsiaalonu abistab kodutuid,assist the homeless,F,2,sotsiaal,False
+892,sotsiaaltädi toetab vabatahtlikke,sotsiaalonu toetab vabatahtlikke,support volunteers,F,2,sotsiaal,False
+893,sotsiaaltädi pakub karjäärinõustamist,sotsiaalonu pakub karjäärinõustamist,provide career counselling,F,2,sotsiaal,False
+894,suitsutädi hindab värvuse järgi tubakalehtede küpsust,suitsuonu hindab värvuse järgi tubakalehtede küpsust,assess the colour curing of tobacco leaves,M,5,suitsu,False
+895,suitsutädi varustab tubakatoodete seadmeid materjalidega,suitsuonu varustab tubakatoodete seadmeid materjalidega,stock tobacco products' machines,M,4,suitsu,False
+896,suitsutädi arvutab sigarettide keskmist kaalu,suitsuonu arvutab sigarettide keskmist kaalu,compute average weight of cigarettes,M,4,suitsu,False
+897,suitsutädi eraldab tubakaribasid suuruse järgi,suitsuonu eraldab tubakaribasid suuruse järgi,separate tobacco shreds by size,M,4,suitsu,False
+898,suitsutädi kuivatab tubakat päikese käes,suitsuonu kuivatab tubakat päikese käes,sun-cure tobacco,M,4,suitsu,False
+899,suitsutädi kuivatab tubakat õhu käes,suitsuonu kuivatab tubakat õhu käes,air-cure tobacco,M,4,suitsu,False
+900,suitsutädi määrab sigarettides ribasuuruste protsenti,suitsuonu määrab sigarettides ribasuuruste protsenti,determine shreds sizes percentage in cigarettes,M,4,suitsu,False
+901,suitsutädi jälgib sigarettide märgistusseadet,suitsuonu jälgib sigarettide märgistusseadet,monitor cigarette stamp machine,M,3,suitsu,False
+902,suitsutädi fermenteerib tubakalehti virnas,suitsuonu fermenteerib tubakalehti virnas,ferment stacks of tobacco leaves,M,3,suitsu,False
+903,suitsutädi hindab tubakalehtede niiskustasemeid,suitsuonu hindab tubakalehtede niiskustasemeid,assess moisture levels in tobacco leaves,M,3,suitsu,False
+904,suitsutädi teeb üksikasjalikke tubakatootmistoiminguid,suitsuonu teeb üksikasjalikke tubakatootmistoiminguid,perform detailed tobacco manufacturing operations,M,3,suitsu,False
+905,suitsutädi lisab tubakale lisaaineid,suitsuonu lisab tubakale lisaaineid,administer additives to tobacco,M,3,suitsu,False
+906,suitsutädi fermenteerib tubakalehti ahjus,suitsuonu fermenteerib tubakalehti ahjus,perform kiln fermentation of tobacco leaves,M,3,suitsu,False
+907,suitsutädi kuivatab tubakat suitsus,suitsuonu kuivatab tubakat suitsus,flue-cure tobacco,M,3,suitsu,False
+908,suitsutädi hindab tubakalehtede fermenteerumistaset,suitsuonu hindab tubakalehtede fermenteerumistaset,assess fermentation levels of tobacco leaves,M,3,suitsu,False
+909,suitsutädi hindab tubakalehtede nikotiinisisaldust,suitsuonu hindab tubakalehtede nikotiinisisaldust,assess nicotine levels in tobacco leaves,M,3,suitsu,False
+910,suitsutädi kuivatab tubakalehti,suitsuonu kuivatab tubakalehti,cure tobacco leaves,M,2,suitsu,False
+911,suitsutädi lõikab tubakalehti,suitsuonu lõikab tubakalehti,cut tobacco leaves,M,2,suitsu,False
+912,suitsutädi rakendab tubakatootmisnõudeid,suitsuonu rakendab tubakatootmisnõudeid,apply tobacco manufacturing requirements,M,2,suitsu,False
+913,suitsutädi kuivatab tubakalehti,suitsuonu kuivatab tubakalehti,dry tobacco leaves,M,2,suitsu,False
+914,suitsutädi pressib tubakalehti,suitsuonu pressib tubakalehti,perform tobacco leaves conditioning,M,2,suitsu,False
+915,suitsutädi testib sigaretivalmistusseadet,suitsuonu testib sigaretivalmistusseadet,perform test in cigarette-making machine,M,2,suitsu,False
+916,suitsutädi maitsestab tubakalehti,suitsuonu maitsestab tubakalehti,flavour tobacco leaves,M,2,suitsu,False
+917,suitsutädi tubakalehti eelsegama,suitsuonu tubakalehti eelsegama,pre-blend tobacco leaves,M,2,suitsu,False
+918,suitsutädi töötab tubakakuivatustehnoloogiaga,suitsuonu töötab tubakakuivatustehnoloogiaga,operate tobacco drying technology,M,2,suitsu,False
+919,suitsutädi töötab sigaretivalmistamisseadmega,suitsuonu töötab sigaretivalmistamisseadmega,tend cigarette making machine,M,2,suitsu,False
+920,suitsutädi segab tubakalehti,suitsuonu segab tubakalehti,blend tobacco leaves,M,2,suitsu,False
+921,suitsutädi sordib tubakalehti,suitsuonu sordib tubakalehti,sort tobacco leaves,M,2,suitsu,False
+922,taksotädi lahendab GPS-vahendite abil asukohaga ja navigeerimisega seotud probleeme,taksoonu lahendab GPS-vahendite abil asukohaga ja navigeerimisega seotud probleeme,solve location and navigation problems by using GPS tools,M,8,takso,False
+923,taksotädi hoolitseb sõiduki välimuse eest,taksoonu hoolitseb sõiduki välimuse eest,maintain vehicle appearance,M,4,takso,False
+924,taksotädi kasutab taksode raadiodispetšersüsteemi,taksoonu kasutab taksode raadiodispetšersüsteemi,operate radio dispatch systems for taxis,M,3,takso,False
+925,taksotädi annab klientidele hinnainfot,taksoonu annab klientidele hinnainfot,provide customers with price information,M,3,takso,False
+926,taksotädi pargib sõidukeid,taksoonu pargib sõidukeid,park vehicles,M,2,takso,False
+927,tehasetädi hindab tööstuslike tegevuste mõju,tehaseonu hindab tööstuslike tegevuste mõju,assess impact of industrial activities,M,4,tehase,False
+928,tehasetädi kontrollib tootmisliinil toodete kvaliteeti,tehaseonu kontrollib tootmisliinil toodete kvaliteeti,check quality of products on the production line,M,4,tehase,False
+929,tehasetädi kavandab tervishoiu- ja ohutusmenetlusi,tehaseonu kavandab tervishoiu- ja ohutusmenetlusi,plan health and safety procedures,M,4,tehase,False
+930,tehasetädi kohandab tootmise ajakavu,tehaseonu kohandab tootmise ajakavu,adjust production schedule,M,3,tehase,False
+931,tehasetädi vaatab monteerimistegevusi üle,tehaseonu vaatab monteerimistegevusi üle,oversee assembly operations,M,3,tehase,False
+932,tehasetädi määratleb tootmise kvaliteedikriteeriume,tehaseonu määratleb tootmise kvaliteedikriteeriume,define manufacturing quality criteria,M,3,tehase,False
+933,tehasetädi analüüsib tarneahela strateegiaid,tehaseonu analüüsib tarneahela strateegiaid,analyse supply chain strategies,M,3,tehase,False
+934,tehasetädi kontrollib toormaterjali kvaliteeti,tehaseonu kontrollib toormaterjali kvaliteeti,check quality of raw materials,M,3,tehase,False
+935,tehasetädi analüüsib tootmisprotsesside täiustamist,tehaseonu analüüsib tootmisprotsesside täiustamist,analyse production processes for improvement,M,3,tehase,False
+936,tehasetädi jälgib tootmisnõudeid,tehaseonu jälgib tootmisnõudeid,oversee production requirements,M,2,tehase,False
+937,tehasetädi koostab tootmissuuniseid,tehaseonu koostab tootmissuuniseid,create manufacturing guidelines,M,2,tehase,False
+938,tehasetädi kehtestab kvaliteedistandardeid,tehaseonu kehtestab kvaliteedistandardeid,define quality standards,M,2,tehase,False
+939,tehasetädi suhtleb tööstusekspertidega,tehaseonu suhtleb tööstusekspertidega,liaise with industrial professionals,M,2,tehase,False
+940,tehasetädi kontrollib materjaliressursse,tehaseonu kontrollib materjaliressursse,check material resources,M,2,tehase,False
+941,tehasetädi ajakavastab tootmist,tehaseonu ajakavastab tootmist,schedule production,M,2,tehase,False
+942,tehasetädi arendab tootmispoliitikat,tehaseonu arendab tootmispoliitikat,develop manufacturing policies,M,2,tehase,False
+943,teletädi kogub saate teema kohta teavet,teleonu kogub saate teema kohta teavet,gather information on theme of the show,F,5,tele,True
+944,teletädi otsib allikatest teavet,teleonu otsib allikatest teavet,consult information sources,F,3,tele,True
+945,teletädi kontrollib teabe õigsust,teleonu kontrollib teabe õigsust,check correctness of information,F,3,tele,True
+946,teletädi valmistab saateid ette,teleonu valmistab saateid ette,prepare broadcasts,F,3,tele,True
+947,teletädi esineb otseülekande ajal,teleonu esineb otseülekande ajal,present during live broadcasts,F,3,tele,False
+948,teletädi konsulteerib produtsendiga,teleonu konsulteerib produtsendiga,consult with production director,F,2,tele,False
+949,teletädi intervjueerib inimesi,teleonu intervjueerib inimesi,interview people,F,2,tele,True
+950,teletädi modereerib debatti,teleonu modereerib debatti,moderate a debate,F,2,tele,True
+951,tollitädi haldab impordi- ja ekspordilube,tollionu haldab impordi- ja ekspordilube,manage import export licenses,F,4,tolli,False
+952,tollitädi nõustab kliente ekspordipiirangute alal,tollionu nõustab kliente ekspordipiirangute alal,provide advice to clients in terms of export restrictions,F,4,tolli,False
+953,tollitädi nõustab kliente impordipiirangute alal,tollionu nõustab kliente impordipiirangute alal,provide advice to clients in terms of import restrictions,F,4,tolli,False
+954,tollitädi kontrollib äritehingute dokumentatsiooni,tollionu kontrollib äritehingute dokumentatsiooni,control trade commercial documentation,F,3,tolli,False
+955,tollitädi kontrollib ametlikke dokumente,tollionu kontrollib ametlikke dokumente,check official documents,F,3,tolli,False
+956,tollitädi korraldab kontrolle,tollionu korraldab kontrolle,undertake inspections,F,2,tolli,False
+957,tollitädi koordineerib importvedusid,tollionu koordineerib importvedusid,coordinate import transportation activities,F,2,tolli,False
+958,tollitädi esitab tõendeid,tollionu esitab tõendeid,present evidence,F,2,tolli,False
+959,tollitädi vastab päringutele,tollionu vastab päringutele,respond to enquiries,F,2,tolli,False
+960,trammitädi loeb trammivõrgu valgusfooride signaale,trammionu loeb trammivõrgu valgusfooride signaale,interpret traffic light signals used in tramway infrastructure,M,4,trammi,False
+961,trammitädi kasutab trammi juhtseadiseid,trammionu kasutab trammi juhtseadiseid,operate tram controls,M,3,trammi,False
+962,trammitädi loeb trammivõrgu liiklusmärke,trammionu loeb trammivõrgu liiklusmärke,interpret tramway traffic signs,M,3,trammi,False
+963,trammitädi kontrollib trammiseadmeid,trammionu kontrollib trammiseadmeid,perform tram equipment checks,M,2,trammi,False
+964,trammitädi juhib trammi,trammionu juhib trammi,drive trams,M,2,trammi,False
+965,treialitädi ühendab metallkomponente omavahel,treialionu ühendab metallkomponente omavahel,join metals,M,3,treiali,False
+966,treialitädi koostab elektrilisi komponente,treialionu koostab elektrilisi komponente,assemble electrical components,M,3,treiali,False
+967,treialitädi töötleb metalli,treialionu töötleb metalli,manipulate metal,M,2,treiali,False
+968,treialitädi juhib metallitöötlusseadmeid,treialionu juhib metallitöötlusseadmeid,operate metal fabricating machines,M,2,treiali,False
+969,treialitädi käsitseb puurpinki,treialionu käsitseb puurpinki,operate drill press,M,2,treiali,False
+970,treialitädi lõikab metalltooteid,treialionu lõikab metalltooteid,cut metal products,M,2,treiali,False
+971,treialitädi toodab metallosi,treialionu toodab metallosi,fabricate metal parts,M,2,treiali,False
+972,treialitädi töötab treipingiga,treialionu töötab treipingiga,tend lathe,M,2,treiali,False
+973,treialitädi teeb metallitööd,treialionu teeb metallitööd,perform metal work,M,2,treiali,False
+974,treialitädi projekteerib metallkomponente,treialionu projekteerib metallkomponente,design metal components,M,2,treiali,False
+975,treialitädi koostab metallosi,treialionu koostab metallosi,assemble metal parts,M,2,treiali,False
+976,treialitädi käsitseb neetimiskäsitööriistu,treialionu käsitseb neetimiskäsitööriistu,operate handheld riveting equipment,M,2,treiali,False
+977,treialitädi loeb tööjooniseid,treialionu loeb tööjooniseid,read engineering drawings,M,2,treiali,False
+978,treialitädi kuumutab metalle,treialionu kuumutab metalle,heat metals,M,2,treiali,False
+979,treialitädi töötab CNC-treipingiga,treialionu töötab CNC-treipingiga,tend computer numerical control lathe machine,M,2,treiali,False
+980,treialitädi koostab monteerimisjuhiseid,treialionu koostab monteerimisjuhiseid,develop assembly instructions,M,2,treiali,False
+981,treialitädi töötab neetimispingiga,treialionu töötab neetimispingiga,tend riveting machine,M,2,treiali,False
+982,treialitädi kasutab poleerimismäärdeid,treialionu kasutab poleerimismäärdeid,apply polishing lubricants,M,2,treiali,False
+983,turvatädi tagab üldsuse ohutust ja turvalisust,turvaonu tagab üldsuse ohutust ja turvalisust,ensure public safety and security,M,5,turva,False
+984,turvatädi hoiab rahvahulka kontrolli all,turvaonu hoiab rahvahulka kontrolli all,control crowd,M,4,turva,False
+985,turvatädi otsib isikuid läbi,turvaonu otsib isikuid läbi,perform body searches,M,3,turva,False
+986,turvatädi hooldab ehitise turvasüsteeme,turvaonu hooldab ehitise turvasüsteeme,maintain facility security systems,M,3,turva,False
+987,turvatädi peab õiguserikkujaid kinni,turvaonu peab õiguserikkujaid kinni,detain offenders,M,3,turva,False
+988,turvatädi reageerib agressiivsele käitumisele,turvaonu reageerib agressiivsele käitumisele,deal with aggressive behaviour,M,3,turva,False
+989,turvatädi tagab haiglate turvalisust,turvaonu tagab haiglate turvalisust,exercise security in hospitals,M,3,turva,False
+990,turvatädi jälgib parklate turvalisust,turvaonu jälgib parklate turvalisust,monitor parking areas to maintain security,M,3,turva,False
+991,turvatädi tagab laevadel turvalisust,turvaonu tagab laevadel turvalisust,ensure security on ships,M,3,turva,False
+992,turvatädi tagab sissepääsude turvalisusust,turvaonu tagab sissepääsude turvalisusust,provide door security,M,3,turva,False
+993,turvatädi lahendab olulisi ohujuhtumeid,turvaonu lahendab olulisi ohujuhtumeid,manage major incidents,M,3,turva,False
+994,turvatädi kuulab isikuid üle,turvaonu kuulab isikuid üle,interrogate individuals,M,3,turva,False
+995,turvatädi tagab hotelli turvalisust,turvaonu tagab hotelli turvalisust,ensure hotel security,M,3,turva,False
+996,turvatädi teeb lennujaama turvakontrolli,turvaonu teeb lennujaama turvakontrolli,conduct airport security screening,M,3,turva,False
+997,turvatädi dokumenteerib kaupluse turvaintsidente,turvaonu dokumenteerib kaupluse turvaintsidente,document security incidents in the store,M,3,turva,False
+998,turvatädi tagab kaupluse turvalisust,turvaonu tagab kaupluse turvalisust,ensure store security,M,3,turva,False
+999,turvatädi ohjeldab isikuid,turvaonu ohjeldab isikuid,restrain individuals,M,2,turva,False
+1000,turvatädi haldab jälgimisseadmeid,turvaonu haldab jälgimisseadmeid,monitor surveillance equipment,M,2,turva,False
+1001,turvatädi tuvastab terrorismiohte,turvaonu tuvastab terrorismiohte,identify terrorism threats,M,2,turva,False
+1002,turvatädi tuvastab julgeolekuohte,turvaonu tuvastab julgeolekuohte,identify security threats,M,2,turva,False
+1003,turvatädi teeb turvakontrolle,turvaonu teeb turvakontrolle,perform security checks,M,2,turva,False
+1004,turvatädi patrullib aladel,turvaonu patrullib aladel,patrol areas,M,2,turva,False
+1005,turvatädi suhtleb korrakaitseametnikega,turvaonu suhtleb korrakaitseametnikega,liaise with security authorities,M,2,turva,False
+1006,turvatädi teeb kontroll-ringkäiku,turvaonu teeb kontroll-ringkäiku,execute inspection walkway,M,2,turva,False
+1007,turvatädi käitleb jälgimisseadmeid,turvaonu käitleb jälgimisseadmeid,handle surveillance equipment,M,2,turva,False
+1008,turvatädi valvab kinnipidamiskohti,turvaonu valvab kinnipidamiskohti,provide security in detention centres,M,2,turva,False
+1009,turvatädi turvab koeraga,turvaonu turvab koeraga,carry out security activities with a dog,M,2,turva,False
+1010,vereproovitädi võtab patsiendilt bioloogilist proovi,vereproovionu võtab patsiendilt bioloogilist proovi,collect biological samples from patients,F,4,vereproovi,False
+1011,vereproovitädi kasutab steriliseerimise tehnilist varustust,vereproovionu kasutab steriliseerimise tehnilist varustust,use technical equipment for sterilisation,F,4,vereproovi,False
+1012,vereproovitädi kasutab veenipunktsiooni vahendeid,vereproovionu kasutab veenipunktsiooni vahendeid,use venepuncture procedure equipment,F,3,vereproovi,False
+1013,vereproovitädi märgistab meditsiinilabori proove,vereproovionu märgistab meditsiinilabori proove,label medical laboratory samples,F,3,vereproovi,False
+1014,vereproovitädi teostab rutiinset vereanalüüsi,vereproovionu teostab rutiinset vereanalüüsi,conduct routine blood testing,F,3,vereproovi,False
+1015,vereproovitädi teostab veenipunktsiooni,vereproovionu teostab veenipunktsiooni,perform venepuncture procedures,F,2,vereproovi,False
+1016,vereproovitädi transpordib vereproove,vereproovionu transpordib vereproove,transport blood samples,F,2,vereproovi,False
+1017,vereproovitädi märgistab vereproove,vereproovionu märgistab vereproove,label blood samples,F,2,vereproovi,False
+1018,õpetajatädi korraldab lapsevanema ja õpetaja kohtumist,õpetajaonu korraldab lapsevanema ja õpetaja kohtumist,arrange parent teacher meeting,F,5,õpetaja,False
+1019,õpetajatädi valmistab õppetunni sisu ette,õpetajaonu valmistab õppetunni sisu ette,prepare lesson content,F,4,õpetaja,False
+1020,õpetajatädi kohandab õpetamist õppuri suutlikkusele,õpetajaonu kohandab õpetamist õppuri suutlikkusele,adapt teaching to student's capabilities,F,4,õpetaja,False
+1021,õpetajatädi valmistab täiskasvanueaks noori ette,õpetajaonu valmistab täiskasvanueaks noori ette,prepare youths for adulthood,F,4,õpetaja,False
+1022,õpetajatädi abistab õppureid vahendite kasutamisel,õpetajaonu abistab õppureid vahendite kasutamisel,assist students with equipment,F,4,õpetaja,False
+1023,õpetajatädi haldab hariduslike eesmärkide ressursse,õpetajaonu haldab hariduslike eesmärkide ressursse,manage resources for educational purposes,F,4,õpetaja,False
+1024,õpetajatädi tagab õppurite ohutust,õpetajaonu tagab õppurite ohutust,guarantee students' safety,F,3,õpetaja,False
+1025,õpetajatädi jälgib õppurite käitumist,õpetajaonu jälgib õppurite käitumist,monitor student's behaviour,F,3,õpetaja,False
+1026,õpetajatädi koostab kursuse õppematerjale,õpetajaonu koostab kursuse õppematerjale,compile course material,F,3,õpetaja,False
+1027,õpetajatädi suhtleb hariduse tugitöötajatega,õpetajaonu suhtleb hariduse tugitöötajatega,liaise with educational support staff,F,3,õpetaja,False
+1028,õpetajatädi haldab õppuritevahelisi suhteid,õpetajaonu haldab õppuritevahelisi suhteid,manage student relationships,F,3,õpetaja,False
+1029,õpetajatädi hoiab õppurite distsipliini,õpetajaonu hoiab õppurite distsipliini,maintain students' discipline,F,3,õpetaja,False
+1030,õpetajatädi annab konstruktiivset tagasisidet,õpetajaonu annab konstruktiivset tagasisidet,give constructive feedback,F,3,õpetaja,False
+1031,õpetajatädi peab tunnis korda,õpetajaonu peab tunnis korda,perform classroom management,F,3,õpetaja,False
+1032,õpetajatädi abistab õppureid õppimises,õpetajaonu abistab õppureid õppimises,assist students in their learning,F,3,õpetaja,False
+1033,õpetajatädi rakendab kultuuridevahelisi õpetamisstrateegiaid,õpetajaonu rakendab kultuuridevahelisi õpetamisstrateegiaid,apply intercultural teaching strategies,F,3,õpetaja,False
+1034,õpetajatädi arendab kursuse ülesehitust,õpetajaonu arendab kursuse ülesehitust,develop course outline,F,3,õpetaja,False
+1035,õpetajatädi abistab kooliürituste korraldamisel,õpetajaonu abistab kooliürituste korraldamisel,assist in the organisation of school events,F,3,õpetaja,False
+1036,õpetajatädi konsulteerib õppurite tugisüsteemiga,õpetajaonu konsulteerib õppurite tugisüsteemiga,consult student's support system,F,3,õpetaja,False
+1037,õpetajatädi soodustab õppuritevahelist koostööd,õpetajaonu soodustab õppuritevahelist koostööd,facilitate teamwork between students,F,3,õpetaja,False
+1038,õpetajatädi märkab andekaid õppureid,õpetajaonu märkab andekaid õppureid,recognise indicators of gifted student,F,3,õpetaja,False
+1039,õpetajatädi saadab õppureid õppereisidel,õpetajaonu saadab õppureid õppereisidel,escort students on a field trip,F,3,õpetaja,False
+1040,õpetajatädi jälgib haridusalaseid arenguid,õpetajaonu jälgib haridusalaseid arenguid,monitor educational developments,F,3,õpetaja,False
+1041,õpetajatädi töötab virtuaalsete õppekeskkondadega,õpetajaonu töötab virtuaalsete õppekeskkondadega,work with virtual learning environments,F,3,õpetaja,False
+1042,õpetajatädi juhendab õppekavaväliseid tegevusi,õpetajaonu juhendab õppekavaväliseid tegevusi,oversee extra-curricular activities,F,3,õpetaja,False
+1043,õpetajatädi annab kodutöid,õpetajaonu annab kodutöid,assign homework,F,2,õpetaja,False
+1044,õpetajatädi rakendab õpetamisstrateegiaid,õpetajaonu rakendab õpetamisstrateegiaid,apply teaching strategies,F,2,õpetaja,False
+1045,õpetajatädi hindab õppureid,õpetajaonu hindab õppureid,assess students,F,2,õpetaja,False
+1046,õpetajatädi suhtleb haridustöötajatega,õpetajaonu suhtleb haridustöötajatega,liaise with educational staff,F,2,õpetaja,False
+1047,õpetajatädi tuvastab õppimishäireid,õpetajaonu tuvastab õppimishäireid,identify learning disorders,F,2,õpetaja,False
+1048,õpetajatädi säilitab kohalolekuandmeid,õpetajaonu säilitab kohalolekuandmeid,keep records of attendance,F,2,õpetaja,False
