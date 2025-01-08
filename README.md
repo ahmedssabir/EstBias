@@ -61,11 +61,17 @@ This dataset provides a detailed look at various compound words in the Estonian 
 ### For API basd model 
 
 ```
-python code/GPT-4_prompt.py --model gpt-4 --input_file data/data_sent.csv --output_file GPT-4o_run_1.txt
+python GPT-4_prompt.py \
+  --model gpt-4 \
+  --input_file data/data_sent.csv \
+  --output_file GPT-4o_run_1.txt
 ```
 For o1 model 
 ```
-python GPT-o1_prompt.py --input_file ../data/data_sent_prompt.csv  --output_file o1_prompt_result.txt --model o1-preview
+python GPT-o1_prompt.py \
+  --input_file ../data/data_sent_prompt.csv \
+  --output_file o1_prompt_result.txt \
+  --model o1-preview
 ```
 
 
@@ -73,8 +79,11 @@ python GPT-o1_prompt.py --input_file ../data/data_sent_prompt.csv  --output_file
 
 ### For Open-Source model 
 ```
-python code/LLM-score.py --sent data/data_sent.csv  --model tartuNLP/Llammas-base --output Llammas-output.csv --summary Llammas-base-summary.txt
-
+python code/LLM-score.py \
+  --sent data/data_sent.csv \
+  --model tartuNLP/Llammas-base \
+  --output Llammas-output.csv \
+  --summary Llammas-base-summary.txt
 ```
 
 
