@@ -63,7 +63,7 @@ This dataset provides a detailed look at various compound words in the Estonian 
 ```
 python GPT-4_prompt.py \
   --model gpt-4 \
-  --input_file data/data_sent.csv \
+  --input_file data/data_sent_prompt.csv  \
   --output_file GPT-4o_run_1.txt
 ```
 For o1 model 
