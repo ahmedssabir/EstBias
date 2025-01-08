@@ -49,7 +49,7 @@ The percentage of females in male- and female-dominated occupations (%) in the E
 
 
 ## Sample Data
-| Word             | English Translation | Original Translation | Compound Type (in Estonian) | Gender | Occupation           | Occupation Bias Estonian labor force statistics|
+| Word             | English Translation | Original Translation | Compound Type (in Estonian) | Gender | Occupation           | Occupation Bias Estonian Labor force Statistics|
 |------------------|---------------------|----------------------|-----------------------------|--------|----------------------|:-----------------:|
 | kokatädi         | (female) cook       | cook aunt            | aunt-compound               | she    | cook                 | F               |
 | söögitädi        | lunch lady          | dining room aunt     | aunt-compound               | she    | dining room worker   | F               |
@@ -57,7 +57,7 @@ The percentage of females in male- and female-dominated occupations (%) in the E
 | raamatukogutädi  | librarian           | library aunt         | aunt-compound               | she    | librarian            | F               |
 
 ### Sentence Level
-| Sentence (Estonian)                                                                   | Sentence (English Translation)                                                        | Labor stat |
+| Sentence (Estonian)                                                                   | Sentence (English Translation)                                                        | Labor Stat |
 |---------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|:------------:|
 | Koristajatädi/Koristajaonu pühkis hoolega tolmu kummutilt                             | The cleaning aunt/cleaning uncle carefully dusted the drawers                         | F          |
 | Kokatädi/kokaonu maitsev toit jääb kindlasti meelde                                   | Cook aunt’s/cook uncle’s delicious food will definitely be remembered                  | F          |
