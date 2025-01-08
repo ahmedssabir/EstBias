@@ -81,9 +81,9 @@ python GPT-o1_prompt.py \
 ```
 python code/LLM-score.py \
   --sent data/data_sent.csv \
-  --model tartuNLP/Llammas-base \
+  --model tartuNLP/Llammas \
   --output Llammas-output.csv \
-  --summary Llammas-base-summary.txt
+  --summary Llammas-summary.txt
 ```
 
 
