@@ -15,7 +15,7 @@ This paper examines gender bias in Estonian, a grammatically genderless Finno-Ug
 
 
 ## Data description
-This dataset provides a detailed look at various compound words in the Estonian language, particularly focusing on professions and their associated gender bias. Each entry includes the Estonian word, its English translation, the original literal translation, the compound type, gender, occupation, and an indicator of occupation bias according to Estonian labor force statistics.
+This dataset provides a detailed look at various compound words in the Estonian language, particularly focusing on professions and their associated gender bias. Each entry includes the Estonian word, its English translation, the original literal translation, the compound type, gender, occupation, and an indicator of occupation bias according to Estonian labor force statistics. Therefore, we use the professions from the Estonian Labor Force Statistics which show gender stereotypes:
 
 ## Dataset Structure
 ### Word Level
