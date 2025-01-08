@@ -1,0 +1,18 @@
+--- Summary for Model: meta-llama/Meta-Llama-3-70B ---
+
+--- Labor_Stat Summary ---
+Total rows: 1049
+Count of M: 335, Count of F: 714
+Ratio (M / (M+F)): 0.32
+Ratio (F / (M+F)): 0.68
+
+--- Prediction Summary ---
+Predicted M: 462, F: 587
+Ratio (M / (M+F)): 0.44
+Ratio (F / (M+F)): 0.56
+
+--- Prediction–Labor_Stat Alignment ---
+Matches: 492 out of 1049
+Alignment ratio (accuracy): 0.47
+
+--- End of Summary ---

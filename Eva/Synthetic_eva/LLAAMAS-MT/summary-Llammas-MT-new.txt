@@ -1,0 +1,18 @@
+--- Summary for Model: tartuNLP/Llammas-translate ---
+
+--- Labor_Stat Summary ---
+Total rows: 1049
+Count of M: 335, Count of F: 714
+Ratio (M / (M+F)): 0.32
+Ratio (F / (M+F)): 0.68
+
+--- Prediction Summary ---
+Predicted M: 769, F: 280
+Ratio (M / (M+F)): 0.73
+Ratio (F / (M+F)): 0.27
+
+--- Prediction–Labor_Stat Alignment ---
+Matches: 449 out of 1049
+Alignment ratio (accuracy): 0.43
+
+--- End of Summary ---
