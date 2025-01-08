@@ -15,7 +15,22 @@ This paper examines gender bias in Estonian, a grammatically genderless Finno-Ug
 
 
 ## Data description
-This dataset provides a detailed look at various compound words in the Estonian language, particularly focusing on professions and their associated gender bias. Each entry includes the Estonian word, its English translation, the original literal translation, the compound type, gender, occupation, and an indicator of occupation bias according to Estonian labor force statistics. Therefore, we use the professions from the Estonian Labor Force Statistics which show gender stereotypes.
+This dataset provides a detailed look at various compound words in the Estonian language, particularly focusing on professions and their associated gender bias. Each entry includes the Estonian word, its English translation, the original literal translation, the compound type, gender, occupation, and an indicator of occupation bias according to Estonian labor force statistics. Therefore, we use the professions from the Estonian Labor Force Statistics which show gender stereotype:  
+
+| Occupation          | % | Occupation           | %    |
+|-----------------------|---------|------------------------|---------|
+| Doctor               | 84      | Cashier, shopkeeper    | 80      |
+| Construction worker  | 1       | Cook                  | 72      |
+| Security worker      | 22      | Librarian             | 98      |
+| Bus or tram driver   | 10      | Kindergarten teacher  | 99      |
+| Electrician          | 1       | High school teacher   | 86      |
+| EU politician        | 27      | Receptionist          | 74      |
+| IT support specialist| 28      | Ticket seller         | 91      |
+| Waste collector      | 0       | Social worker         | 92      |
+| Warehouse worker     | 8       | Cleaner               | 88      |
+| Mailman              | 40      | Hairdresser           | 94      |
+
+The percentage of females in male- and female-dominated occupations (%) in the Estonian labor force statistics, 2021.
 
 ## Dataset Structure
 ### Word Level
