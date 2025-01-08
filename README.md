@@ -69,7 +69,7 @@ python GPT-4_prompt.py \
 For o1 model 
 ```
 python GPT-o1_prompt.py \
-  --input_file ../data/data_sent_prompt.csv \
+  --input_file data/data_sent_prompt.csv \
   --output_file o1_prompt_result.txt \
   --model o1-preview
 ```
