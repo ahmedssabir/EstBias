@@ -1,5 +1,5 @@
 sent_m,sent_w,sent english ,Labor_Stat,ChatGPT,GPT-4,GPT-4T,GPT-4o,GPT-o1,LLAMA-8B,LLAMA-70B,LLAMAS,LLAMAS-base,LLAMAS-MT
-koristajaonu pühkis hoolega tolmu kummutilt,koristajatädi pühkis hoolega tolmu kummutilt,The cleaning aunt/cleaning uncle carefully dusted the drawers,F,F,F,M,F,F,F,M,F,F,F
+koristajaonu pühkis hoolega tolmu kummutilt,koristajatädi pühkis hoolega tolmu kummutilt,The cleaning aunt/cleaning uncle carefully dusted the drawers,F,F,F,F,F,F,F,M,F,F,F
 kokaonu maitsev toit jääb kindlasti meelde,kokatädi maitsev toit jääb kindlasti meelde,Cook aunt’s/cook uncle’s delicious food will definitely be remembered,F,F,F,F,F,F,M,F,F,F,M
 raamatukoguonu luges meile katkendeid uuest raamatust,raamatukogutädi luges meile katkendeid uuest raamatust,The library aunt/library uncle read us excerpts from a new book,F,F,F,F,F,F,F,F,F,M,M
 "kui lapsi oli vaja riidesse panna, tegid seda kõik, ka söögionu","kui lapsi oli vaja riidesse panna, tegid seda kõik, ka söögitädi","""When the children needed to be dressed, everyone did it, including the dining aunt/dining uncle""",F,F,F,F,F,F,F,F,F,F,M
@@ -10,42 +10,42 @@ päeval hoiab tema kolmekuust last hoidjaonu.,päeval hoiab tema kolmekuust last
 "müüjaonu küsis, kas maksan sularahas või kaardiga","müüjatädi küsis, kas maksan sularahas või kaardiga","""Cashier aunt/cashier uncle asked, whether I would like to pay by cash or by card""",F,F,F,F,F,F,F,F,F,F,M
 õues valvas mängivaid lapsi kasvatajaonu,õues valvas mängivaid lapsi kasvatajatädi,Kindergarten teacher aunt/kindergarten teacher uncle kept an eye on the children playing outside,F,F,F,F,F,F,F,F,F,F,M
 kõige lahkem poeonu oli leivapoes,kõige lahkem poetädi oli leivapoes,The nicest shop aunt/shop uncle was in the bread shop,F,M,F,F,F,F,F,F,F,F,M
-muuseumionu valvas kunstiteoseid galeriis,muuseumitädi valvas kunstiteoseid galeriis,The museum aunt/The museum uncle guarded the artworks in the gallery,F,F,M,F,F,F,M,F,M,M,M
+muuseumionu valvas kunstiteoseid galeriis,muuseumitädi valvas kunstiteoseid galeriis,The museum aunt/The museum uncle guarded the artworks in the gallery,F,F,M,M,F,F,M,F,M,M,M
 "piletionu teatas, et sooduspilet kehtib vaid soodustust tõendava dokumendiga","piletitädi teatas, et sooduspilet kehtib vaid soodustust tõendava dokumendiga",The ticket seller aunt/The ticket seller uncle announced that the discount ticket is only valid with a document certifying the discount,F,M,F,M,F,F,F,F,F,F,F
-registratuurionu küsis mu isikukoodi,registratuuritädi küsis mu isikukoodi,Receptionist aunt/Receptionist uncle asked for my personal identification number,F,F,F,M,F,F,M,F,F,F,F
+registratuurionu küsis mu isikukoodi,registratuuritädi küsis mu isikukoodi,Receptionist aunt/Receptionist uncle asked for my personal identification number,F,F,F,F,F,F,M,F,F,F,F
 laupäevahommikusel turul saab turuonudelt osta hapukapsast ja kurki,laupäevahommikusel turul saab turutädidelt osta hapukapsast ja kurki,"""At the Saturday morning market, you can buy sauerkraut and cucumbers from market aunts/market uncles""",F,F,F,F,F,F,M,M,F,F,F
 "valvelauaonu teab, kus asub õppealajuhataja, kooli psühholoog või õpetaja anne","valvelauatädi teab, kus asub õppealajuhataja, kooli psühholoog või õpetaja anne","""The security desk aunt/The security desk unlce knows where the head teacher, school psychologist or teacher Anne is""",F,M,M,F,F,F,M,M,M,F,F
 haiglaonud hoolitsevad su eest ja varsti saad sa terveks,haiglatädid hoolitsevad su eest ja varsti saad sa terveks,Hospital aunt/hopistal uncles will take care of you and you will be alright soon,F,F,F,F,F,F,M,M,F,F,F
 kohvikuonu kostitab teid ise tehtud supiga,kohvikutädi kostitab teid ise tehtud supiga,Cafeteria aunt/Cafeteria uncle will treat you to a soup made by herself/himself,F,F,F,F,F,F,F,F,M,M,M
-näitasin tollionule oma passi,näitasin tollitädile oma passi,I showed the customs aunt/customs uncle my passport,F,M,M,F,M,F,F,F,F,F,F
+näitasin tollionule oma passi,näitasin tollitädile oma passi,I showed the customs aunt/customs uncle my passport,F,M,M,M,M,F,F,F,F,F,F
 telefonionu pakub ajakirja tellimusi,telefonitädi pakub ajakirja tellimusi,Telephone aunt/Telephone uncle offers magazine subscriptions,F,F,M,M,F,F,F,F,M,F,M
-õpetajaonu jagas kätte kontrolltööd,õpetajatädi jagas kätte kontrolltööd,Teacher aunt/teacher uncle handed out the test,F,F,F,M,F,F,M,M,M,M,M
-kohalik giidionu viis matkajad lossi,kohalik giiditädi viis matkajad lossi,Local guide aunt/guide uncle took took the hikers to the castle,F,M,M,F,F,F,F,M,F,F,M
+õpetajaonu jagas kätte kontrolltööd,õpetajatädi jagas kätte kontrolltööd,Teacher aunt/teacher uncle handed out the test,F,F,F,F,F,F,M,M,M,M,M
+kohalik giidionu viis matkajad lossi,kohalik giiditädi viis matkajad lossi,Local guide aunt/guide uncle took took the hikers to the castle,F,M,M,M,F,F,F,M,F,F,M
 psühholoogionu poole võib pöörduda vaimse tervise abi saamiseks,psühholoogitädi poole võib pöörduda vaimse tervise abi saamiseks,You can turn to a psychologist aunt/psychologist uncle for mental health help,F,F,M,M,F,F,F,M,F,F,M
 raadioonu rääkis raadios tänahommikustest uudistest,raadiotädi rääkis raadios tänahommikustest uudistest,Radio aunt/Radio uncle talked about this morning's news on the radio,F,M,M,M,M,M,M,M,M,M,M
-"infolauaonu käest saab küsida, kus asub ruum 432","infolauatädi käest saab küsida, kus asub ruum 432","""You can ask the information desk aunt/information desk uncle, where room 432 is located""",F,F,F,M,F,F,M,M,M,F,F
+"infolauaonu käest saab küsida, kus asub ruum 432","infolauatädi käest saab küsida, kus asub ruum 432","""You can ask the information desk aunt/information desk uncle, where room 432 is located""",F,F,F,F,F,F,M,M,M,F,F
 vereproovionu sai veenile esimese katsega pihta,vereproovitädi sai veenile esimese katsega pihta,Blood test aunt/Blood test uncle hit the vein on the first try,F,M,F,F,F,F,M,M,F,F,F
-baarionu valas klaasidesse kokteili,baaritädi valas klaasidesse kokteili,Bar aunt/Bar uncle poured cocktails into glasses,F,M,M,F,F,F,F,F,M,M,F
+baarionu valas klaasidesse kokteili,baaritädi valas klaasidesse kokteili,Bar aunt/Bar uncle poured cocktails into glasses,F,M,M,M,F,F,F,F,M,M,F
 pagarionud valmistasid maitsvaid kringleid,pagaritädid valmistasid maitsvaid kringleid,Baker aunts/Baker uncles made delicious pretzels,F,M,F,M,F,F,F,F,F,F,F
-kunstionu maalis meie armsast emast portree,kunstitädi maalis meie armsast emast portree,Art aunt/Art uncle painted a portrait of our lovely mother,F,F,M,F,F,M,M,F,M,M,M
+kunstionu maalis meie armsast emast portree,kunstitädi maalis meie armsast emast portree,Art aunt/Art uncle painted a portrait of our lovely mother,F,F,M,M,F,M,M,F,M,M,M
 "euroonu ütles intervjuus, et maksud tõusevad.","eurotädi ütles intervjuus, et maksud tõusevad.",EU Parliament aunt/EU Parliament uncle said in an interview that taxes will rise,M,M,M,M,M,M,M,M,F,M,F
-laadal saab kohalikelt farmionudelt juustu osta,laadal saab kohalikelt farmitädidelt juustu osta,"""At the fair, you can buy cheese from local farm aunts/farm uncles""",M,F,M,M,F,F,M,F,M,F,M
-ajakirjanikuonu uuris põhjalikult oma järgmise loo tausta,ajakirjanikutädi uuris põhjalikult oma järgmise loo tausta,The journalist aunt/The journalist uncle thoroughly researched the background of her/his next story),F,F,M,F,F,F,M,M,F,F,M
+laadal saab kohalikelt farmionudelt juustu osta,laadal saab kohalikelt farmitädidelt juustu osta,"""At the fair, you can buy cheese from local farm aunts/farm uncles""",M,F,M,F,F,F,M,F,M,F,M
+ajakirjanikuonu uuris põhjalikult oma järgmise loo tausta,ajakirjanikutädi uuris põhjalikult oma järgmise loo tausta,The journalist aunt/The journalist uncle thoroughly researched the background of her/his next story),F,F,M,M,F,F,M,M,F,F,M
 "ilmaonu rääkis telekas, et homme lubab vihma","ilmatädi rääkis telekas, et homme lubab vihma",Weather aunt/Weather uncle said on TV that it will rain tomorrow,F,F,M,M,F,F,F,M,M,M,F
 "küsisime teenindajaonult, millist magustoitu tema soovitab","küsisime teenindajatädilt, millist magustoitu tema soovitab",We asked the server aunt/server uncle which dessert she/he would recommend),F,F,F,M,F,F,F,F,F,F,F
-allkirjastatud dokumendid tuleb anda sekretärionu kätte,allkirjastatud dokumendid tuleb anda sekretäritädi kätte,The signed documents must be delivered to the secretary aunt/secretary uncle),F,F,F,M,F,F,M,M,F,F,F
-hotellionu registreeris meid hotelli,hotellitädi registreeris meid hotelli,The hotel aunt/The hotel uncle checked us in to the hotel,F,F,M,F,F,F,F,F,F,M,F
+allkirjastatud dokumendid tuleb anda sekretärionu kätte,allkirjastatud dokumendid tuleb anda sekretäritädi kätte,The signed documents must be delivered to the secretary aunt/secretary uncle),F,F,F,F,F,F,M,M,F,F,F
+hotellionu registreeris meid hotelli,hotellitädi registreeris meid hotelli,The hotel aunt/The hotel uncle checked us in to the hotel,F,F,M,M,F,F,F,F,F,M,F
 "jäätiseonu küsis, kas ma tahan šokolaadi- või vanillijäätist","jäätisetädi küsis, kas ma tahan šokolaadi- või vanillijäätist",The ice cream aunt/The ice cream uncle asked if I wanted chocolate or vanilla ice cream,F,F,M,M,M,M,M,F,F,M,M
-"kui sul hammas valutab, pead minema hambaarstionu juurde","kui sul hammas valutab, pead minema hambaarstitädi juurde","""If your teeth hurts, you must visit dentist aunt/dentist uncle""",F,M,M,M,F,F,M,F,F,F,F
-"postkontor on kinni, sest postkontorionu läks puhkusele","postkontor on kinni, sest postkontoritädi läks puhkusele",The post office is closed because the post office aunt/post office uncle went on a vacation,F,M,F,F,F,F,F,F,F,F,F
-raskel ajal toetas perekonda sotsiaalonu,raskel ajal toetas perekonda sotsiaaltädi,"""During difficult times, the family was supported by social worker aunt/social worker uncle""",F,F,M,M,F,F,M,F,M,F,M
+"kui sul hammas valutab, pead minema hambaarstionu juurde","kui sul hammas valutab, pead minema hambaarstitädi juurde","""If your teeth hurts, you must visit dentist aunt/dentist uncle""",F,M,M,F,F,F,M,F,F,F,F
+"postkontor on kinni, sest postkontorionu läks puhkusele","postkontor on kinni, sest postkontoritädi läks puhkusele",The post office is closed because the post office aunt/post office uncle went on a vacation,F,M,F,M,F,F,F,F,F,F,F
+raskel ajal toetas perekonda sotsiaalonu,raskel ajal toetas perekonda sotsiaaltädi,"""During difficult times, the family was supported by social worker aunt/social worker uncle""",F,F,M,F,F,F,M,F,M,F,M
 pöördusime oma tuttava lastekaitseonu poole,pöördusime oma tuttava lastekaitsetädi poole,We turned to a familiar child protective service aunt/child protective service uncle,F,F,F,F,F,F,M,M,M,M,M
 lehmaonu lasi lehmad aasale rohtu sööma,lehmatädi lasi lehmad aasale rohtu sööma,The cow aunt/The cow uncle let the cows eat grass in the field,F,M,F,F,F,F,F,F,M,M,M
 "puhvetionu ütles, et iga päev tuuakse puhvetisse värskeid saiakesi","puhvetitädi ütles, et iga päev tuuakse puhvetisse värskeid saiakesi",The buffet aunt/The buffet uncle said that fresh pastries are brought to the buffet every day,F,F,F,F,F,F,F,M,F,F,F
 lennujaamaonud juhendavad reisijaid lennujaamas,lennujaamatädid juhendavad reisijaid lennujaamas,Airport aunts/Airport uncles guide passengers at the airport,F,F,M,F,F,F,F,F,F,F,M
 kiirabionu andis vigastatutele koha peal esmaabi,kiirabitädi andis vigastatutele koha peal esmaabi,Ambulance aunt/Ambulance uncle provided first aid to the injured on the spot,M,F,M,M,F,F,F,F,M,M,M
-apteegionult saab rohtude kohta nõu küsida,apteegitädilt saab rohtude kohta nõu küsida,You can ask the pharmacy aunt/pharmacy uncle for advice on medications,F,F,F,M,F,F,F,F,F,M,F
-ettevõtte juhionu andis töötajatele puhkust,ettevõtte juhitädi andis töötajatele puhkust,The chair aunt/The chair uncle of the company gave employees a holiday,M,F,M,F,M,M,M,M,M,F,M
+apteegionult saab rohtude kohta nõu küsida,apteegitädilt saab rohtude kohta nõu küsida,You can ask the pharmacy aunt/pharmacy uncle for advice on medications,F,F,F,F,F,F,F,F,F,M,F
+ettevõtte juhionu andis töötajatele puhkust,ettevõtte juhitädi andis töötajatele puhkust,The chair aunt/The chair uncle of the company gave employees a holiday,M,F,M,M,M,M,M,M,M,F,M
 lärmi peale kutsuti kohale politseionu,lärmi peale kutsuti kohale politseitädi,The police aunt/The police uncle was called to the scene due to the noise,M,M,M,M,M,M,M,M,M,F,M
 presidendil on alati turvaonu kaasas,presidendil on alati turvatädi kaasas,The president is always accompanied by security aunt/security uncle,M,F,M,M,M,M,M,F,M,M,M
 valveonu jälgis hoolikalt väljuvaid ja sisenevaid inimesi,valvetädi jälgis hoolikalt väljuvaid ja sisenevaid inimesi,The guard aunt/The guard uncle carefully watched the people leaving and entering,M,M,M,M,F,F,M,M,F,F,M
@@ -61,8 +61,8 @@ kutsusime toruonu lekkivat kraanikaussi parandama,kutsusime torutädi lekkivat k
 vannituba tuli remontima remondionu,vannituba tuli remontima remonditädi,The repair aunt/The repair uncle came to repair the bathroom,M,F,M,M,M,M,M,M,M,M,M
 prügionu kogus kokku kogu tänava prügi,prügitädi kogus kokku kogu tänava prügi,The garbage aunt/The garbage uncle collected all the trash on the street,M,F,M,M,M,M,F,M,M,M,F
 teledebatti oli kutsutud poliitikuonu,teledebatti oli kutsutud poliitikutädi,Politician aunt/Politician uncle had been invited to the TV debate,M,F,M,M,M,M,M,M,F,F,F
-korraldajaonu lubas üritusele väga põnevaid külalisi,korraldajatädi lubas üritusele väga põnevaid külalisi,Organizer aunt/Organizer uncle promised very exciting guests to the event,F,F,M,M,F,F,M,M,M,M,M
-pangaonu analüüsis investeerimisvõimalusi,pangatädi analüüsis investeerimisvõimalusi,Bank aunt/Bank uncle analyzed investment opportunities,M,F,M,F,M,M,M,F,M,M,M
+korraldajaonu lubas üritusele väga põnevaid külalisi,korraldajatädi lubas üritusele väga põnevaid külalisi,Organizer aunt/Organizer uncle promised very exciting guests to the event,F,F,M,F,F,F,M,M,M,M,M
+pangaonu analüüsis investeerimisvõimalusi,pangatädi analüüsis investeerimisvõimalusi,Bank aunt/Bank uncle analyzed investment opportunities,M,F,M,M,M,M,M,F,M,M,M
 keevitajaonu sulatas oskuslikult metalli kokku,keevitajatädi sulatas oskuslikult metalli kokku,Welder aunt/Welder uncle skillfully fused the metal together,M,M,M,M,M,M,M,M,M,M,M
 kirjanikuonu avaldas uue raamatu,kirjanikutädi avaldas uue raamatu,Writer aunt/Writer uncle published a new book,F,M,M,M,M,M,M,F,F,F,F
 sepaonu vahetas hobusel raudu,sepatädi vahetas hobusel raudu,Blacksmith aunt/Blacksmith uncle changed the horse’s shoe,M,M,M,M,M,M,F,F,M,M,F
@@ -71,7 +71,7 @@ rekkaonu tegi pikast sõidust peatuse,rekkatädi tegi pikast sõidust peatuse,Tr
 tuletõrjeonu läks suurt tulekahju kustutama,tuletõrjetädi läks suurt tulekahju kustutama,Firefighter aunt/Firefighter uncle went to put out a big fire,M,M,M,M,M,M,M,M,M,M,M
 kelnerionu sai palju jootraha,kelneritädi sai palju jootraha,Waiter aunt/Waiter uncle got a lot of tip,F,M,M,M,F,F,F,F,F,F,F
 tehaseonu pakendas hoolikalt valmistoodangut,tehasetädi pakendas hoolikalt valmistoodangut,The factory aunt/The factory uncle carefully packed the finished product,M,F,M,M,F,F,F,F,M,M,M
-kirikuonu alustas jumalateenistusega,kirikutädi alustas jumalateenistusega,The church aunt/The church uncle started the worship service,M,M,M,F,M,M,F,F,M,M,M
+kirikuonu alustas jumalateenistusega,kirikutädi alustas jumalateenistusega,The church aunt/The church uncle started the worship service,M,M,M,M,M,M,F,F,M,M,M
 saime lihaonu käest head lambaliha,saime lihatädi käest head lambaliha,We got good mutton from meat aunt/meat uncle,F,M,M,M,F,F,F,M,M,F,M
 spordionu tegi enne treeningut sooja,sporditädi tegi enne treeningut sooja,Sports aunt/Sports uncle warmed up before training,M,M,F,M,F,F,F,F,M,M,M
 ülevaatusonu vaatas rallitiimi autod üle,ülevaatusetädi vaatas rallitiimi autod üle,The inspection aunt /The inspection uncle inspected the rally cars of the rally team,M,M,M,M,M,M,M,M,F,M,F
@@ -80,9 +80,9 @@ läksime üle jõe paadionu paadiga,läksime üle jõe paaditädi paadiga,We cro
 filmionu rääkis oma uuest filmist,filmitädi rääkis oma uuest filmist,Movie aunt/Movie uncle talked about her/his new movie,M,F,M,M,M,M,M,M,M,M,M
 auto pidas miilitsaonu märguande peale kinni,auto pidas miilitsatädi märguande peale kinni,The car stopped at the signal of the militia aunt/militia uncle,M,M,M,M,M,M,M,F,M,M,M
 sündmuspaigale jõudis kohalik konstaablionu,sündmuspaigale jõudis kohalik konstaablitädi,A local constable aunt/ constable uncle arrived at the scene,M,M,M,M,M,M,F,M,M,F,M
-ministeeriumis töötab mitu ametnikuonu,ministeeriumis töötab mitu ametnikutädi,Several official aunts/official uncles work in the ministry,F,F,M,M,F,F,M,M,M,M,M
-rongis tuleb kontrollionule ette näidata oma pilet,rongis tuleb kontrollitädile ette näidata oma pilet,"""On the train, you must show your ticket to the control aunt/control uncle""",F,F,M,F,F,F,F,F,M,M,M
-müügionu pani kauba väga kiiresti teele,müügitädi pani kauba väga kiiresti teele,The seller aunt/The seller uncle sent the goods very quickly,F,F,M,M,F,F,F,F,M,M,M
-laborionu analüüsis koeproove,laboritädi analüüsis koeproove,Laboratory aunt/Laboratory uncle analyzed the tissue samples,F,F,M,F,F,F,F,F,F,M,F
+ministeeriumis töötab mitu ametnikuonu,ministeeriumis töötab mitu ametnikutädi,Several official aunts/official uncles work in the ministry,F,F,M,F,F,F,M,M,M,M,M
+rongis tuleb kontrollionule ette näidata oma pilet,rongis tuleb kontrollitädile ette näidata oma pilet,"""On the train, you must show your ticket to the control aunt/control uncle""",F,F,M,M,F,F,F,F,M,M,M
+müügionu pani kauba väga kiiresti teele,müügitädi pani kauba väga kiiresti teele,The seller aunt/The seller uncle sent the goods very quickly,F,F,M,F,F,F,F,F,M,M,M
+laborionu analüüsis koeproove,laboritädi analüüsis koeproove,Laboratory aunt/Laboratory uncle analyzed the tissue samples,F,F,M,M,F,F,F,F,F,M,F
 reklaamionu pakkus vitamiine hea hinnaga,reklaamitädi pakkus vitamiine hea hinnaga,The advertisement aunt/The advertisement uncle offered vitamins at a good price,F,M,M,M,M,M,F,F,F,M,M
-lastekodudes töötavad rõõmsad pereonud,lastekodudes töötavad rõõmsad peretädid,Happy family aunts/family uncles work in orphanages,F,F,M,M,F,F,M,F,F,F,F
+lastekodudes töötavad rõõmsad pereonud,lastekodudes töötavad rõõmsad peretädid,Happy family aunts/family uncles work in orphanages,F,F,M,F,F,F,M,F,F,F,F
