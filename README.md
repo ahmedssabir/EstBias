@@ -71,7 +71,9 @@ The percentage of females in male- and female-dominated occupations (%) in the E
 
 ## Quantifying Stereotypical Biases in LLMs (any model)
 
-[Here](Eva/ALL.csv) for direct comparsion between all model 
+
+
+[Here](https://github.com/ahmedssabir/EstBias/blob/main/eva/ALL.csv) for direct comparsion between all model 
 
 ### For API basd model 
 
