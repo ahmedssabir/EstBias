@@ -1,3 +1,4 @@
-Match Percentage: 82.76%
-Ground Truth - Male Ratio: 0.36, Female Ratio: 0.64
+Match Percentage: 83.91%
+Ground Truth - Male Ratio: 0.37, Female Ratio: 0.63
 Results - Male Ratio: 0.34, Female Ratio: 0.66
+
