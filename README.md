@@ -128,9 +128,11 @@ We benchmark this dataset against the most recent state-of-the-art (SoTA) open-s
 |--------------------------------|---------|---------|-------|
 | Labor stat | 0.32    | 0.68    |   |
 | LLAMA-3-8B  | 0.45    | 0.55    | 0.48  |
+| DeepSeek-R1-Distill-Llama-8B | 0.39    | 0.61    | 0.50  |
 | LLAMA-3-70B                   | 0.44    | 0.56    | 0.47  |
+| DeepSeek-R1-Distill-Llama-70B | 0.38    | 0.62   | 0.49  |
 | LLAMMAS | 0.31    | 0.69    | 0.49  |
-| LLAMMAS-base | 0.70    | 0.30    | 0.53  |
+| LLAMMAS-base | 0.70    | 0.30    | **0.53**  |
 | LLAMMAS-MT | 0.73    | 0.27    | 0.43  |
 
 ## Ethics Statement
