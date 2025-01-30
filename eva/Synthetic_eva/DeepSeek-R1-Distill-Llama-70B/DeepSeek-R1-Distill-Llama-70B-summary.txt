@@ -1,0 +1,18 @@
+--- Summary for Model: deepseek-ai/DeepSeek-R1-Distill-Llama-70B ---
+
+--- Labor_Stat Summary ---
+Total rows: 1049
+Count of M: 335, Count of F: 714
+Ratio (M / (M+F)): 0.32
+Ratio (F / (M+F)): 0.68
+
+--- Prediction Summary ---
+Predicted M: 395, F: 654
+Ratio (M / (M+F)): 0.38
+Ratio (F / (M+F)): 0.62
+
+--- Prediction–Labor_Stat Alignment ---
+Matches: 511 out of 1049
+Alignment ratio (accuracy): 0.49
+
+--- End of Summary ---
