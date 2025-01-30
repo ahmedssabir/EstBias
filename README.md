@@ -112,9 +112,9 @@ python code/LLM-score.py \
 ``` 
 -->
 
-## Synthetic dataset (work in progress)
+## Synthetic dataset 
 
-We also introduced a 1k [synthetic benchmark dataset](data/synthetic_data.csv) that uses the same template, with one occupation per sentence  but relies on **different contexts**. In other words, the benchmark includes duplicate occupations presented in different contexts.
+We also introduced a 1k [synthetic benchmark dataset](data/synthetic_data.csv)  (work in progress) that uses the same template, with one occupation per sentence  but relies on **different contexts**. In other words, the benchmark includes duplicate occupations presented in different contexts.
 
 | sent_w                                      | sent_m                                      | preferredLabel_en        | Labor_Stat | n_words | term_root        | has_duplicates |
 |-------------------------------------------|--------------------------------------------|--------------------------|------------|---------|------------------|----------------|
