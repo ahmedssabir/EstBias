@@ -3,7 +3,7 @@
 
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://bit.ly/4h3umx7)  [![huggingface](https://img.shields.io/badge/%F0%9F%A4%97-huggingface-yellow)](https://huggingface.co/datasets/AhmedSSabir/Gender-Bias-Study-Genderless-Estonian-dataset)  <!-- ![](https://img.shields.io/badge/NoDaLiDa%202025-orange) -->
 
-This repository contains the implementation of the paper [How Aunt-like are you? Exploring Gender Bias in Genderless Estonian Language: A Case Study](https://github.com/).
+This repository contains the implementation of the paper [How Aunt-like are you? Exploring Gender Bias in Genderless Estonian Language: A Case Study]([https://github.com/](https://aclanthology.org/2025.nodalida-1.31.pdf)).
 
 
 
@@ -146,12 +146,13 @@ real-world statistics. However, we also recognize the importance of normative an
 ## Citation
 Please cite this dataset when used in academic or research settings.
 ```
-@article{kaukonen2025aunt,
-  title={How Aunt-Like Are You? Exploring Gender Bias
-    in the Genderless Estonian Language: A Case Study},
+@inproceedings{kaukonen2025aunt,
+  title={How Aunt-Like Are You? Exploring Gender Bias in the Genderless Estonian Language: A Case Study},
   author={Kaukonen, Elisabeth and Sabir, Ahmed and Sharma, Rajesh},
-  journal={arXiv preprint arXiv:2500.00000},
+  booktitle={Proceedings of the Joint 25th Nordic Conference on Computational Linguistics and 11th Baltic Conference on Human Language Technologies (NoDaLiDa/Baltic-HLT 2025)},
+  pages={296--301},
   year={2025}
+}
  }
 ```
 
